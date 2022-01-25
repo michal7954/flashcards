@@ -4,6 +4,8 @@ Aplikacja do wielokrotnego powtarzania słówek.
 Aby słówko zostało uznane za nauczone należy zaliczyć je 5 razy z rzędu.
 Kiedy pierwszy raz słówko zostanie zaliczone, aplikacja zapyta o nie po 3 dniach. Potem analogicznie po 7, 14 i 31 dniach. Niezaliczenie któregoś z etapów powoduje powrót do poziomu 0 :(
 
+Kiedy wpiszemy słowo błędnie, pojawia się informacja o liczbie różnic względem poprawnego słowa. Jedna różnica oznacza konieczność dodania,usunięcia lub modyfikacji jednej z liter.
+
 Obsługa:
 1. W pliku data.txt wprowadzić listę słówek w formacie
 słówko;definicja
