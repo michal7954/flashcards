@@ -4,18 +4,28 @@ from datetime import date
 from Flashcard import Flashcard
 from helpers.differencesNumber import differencesNumber
 from helpers.ui import printColor, printHeader, printFooter, printWord
+from sys import exit
 
 
 def prepareFlashcards():
 
-    records = open(dataFile, "r").readlines()
+    try:
+        records = open(dataFile, "r").readlines()
+    except FileNotFoundError:
+        input('Plik data.txt nie istnieje\n[Enter]')
+        exit()
+    
     today = date.today()
     flashcards = []
 
     for lineNumber, record in enumerate(records):
         data = record.rstrip('\n').split(';')
 
-        if len(data) < 4:
+        if not len(data) in [2, 4]:
+            input(f'Błędny wiersz w pliku data.txt:\n{record}\n[Enter]')
+            exit()
+
+        if len(data) == 2:
             data = data[:2]
             data.extend(['0', str(today)])
             replaceLine(lineNumber, data)
