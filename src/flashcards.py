@@ -3,7 +3,7 @@ from helpers.consts import dataFile, days
 from datetime import date
 from Flashcard import Flashcard
 from helpers.differencesNumber import differencesNumber
-from helpers.ui import printColor, printHeader, printFooter, printWord
+from helpers.ui import printFlashcard, printHeader, printFooter, printCorrect, printMistake
 from sys import exit
 
 
@@ -47,7 +47,7 @@ def questionFlashcards(flashcards):
     for cardNumber, card in enumerate(flashcards, start=1):
 
         printHeader()
-        printWord(cardNumber, len(flashcards), card.progress, len(days)-1, card.definition)
+        printFlashcard(cardNumber, len(flashcards), card.progress, len(days)-1, card.definition)
 
         hint = 0
         while True:
@@ -56,22 +56,23 @@ def questionFlashcards(flashcards):
             if answer.isnumeric():
                 if answer == '1':
                     hint += 1
-                    printColor(card.entry[:hint])
+                    printCorrect(card.entry[:hint])
                     if hint == len(card.entry):
                         card.decide()
+                        break
                 elif answer == '2':
-                    printColor(f'{card.entry}')
+                    printCorrect(f'{card.entry}')
                     card.decide()
                     break
 
             else:
                 result = differencesNumber(card.entry, answer)
                 if result == 0:
-                    print('Odpowiedź poprawna')
+                    printCorrect('Odpowiedź poprawna')
                     card.decide()
                     break
                 else:
-                    print(f'Różnic: {result}')
+                    printMistake(f'Różnic: {result}')
 
 
 def main():

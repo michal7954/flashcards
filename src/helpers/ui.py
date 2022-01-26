@@ -1,10 +1,15 @@
-from helpers.consts import color, defaultColor
+from helpers.consts import wordColor, defaultColor, mistakeColor, correctColor
 from os import system
 
 
-def printColor(content):
-    print(f'{color}{content}{defaultColor}')
+def printWord(content):
+    print(f'{wordColor}{content}{defaultColor}')
 
+def printMistake(content):
+    print(f'{mistakeColor}{content}{defaultColor}')
+
+def printCorrect(content):
+    print(f'{correctColor}{content}{defaultColor}')
 
 def printHeader():
     system('cls')
@@ -15,10 +20,10 @@ def printHeader():
     print()
 
 
-def printWord(cardNumber, cardsNumber, cardProgress, maxLevel, definition):
+def printFlashcard(cardNumber, cardsNumber, cardProgress, maxLevel, definition):
     print(f'Słówko: {cardNumber}/{cardsNumber}')
     print(f'Poziom: {cardProgress}/{maxLevel}')
-    printColor(definition)
+    printWord(definition)
 
 
 def printFooter():
