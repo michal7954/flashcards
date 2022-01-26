@@ -1,76 +1,76 @@
-plain;pospolity, nieatrakcyjny
-go for;wybierać, sięgać po (ciemniejsze kolory)
-lanky;tyczkowaty, wysoki i chudy
-stocky;krępy
-dyed;farbowane
-fringe;grzywka
-wear hair loose/up;nosić włosy rozpuszczone/spięte
-freckles;piegi
-pale/tanned/dark complexion;blada/opalona/ciemna karnacja
-spotty;pryszczaty
-birthmark;znamię
-clear skin;gładka skóra
-fleece;bluza polarowa
-trainers;obuwie sportowe
-waistcoat;kamizelka
-boat-necked;z szerkokim dekoltem
-cardigan;rozpinany sweter
-collar;kołnierzyk
-cuffs;mankiety
-dressing gown;szlafrok
-short-sleeved;z krótkim rękawem
-strapless top;bluzka bez ramiączek
-shoe laces;sznurówki
-checked;w kratę
-plain;gładki
-spotted;w kropki
-fur;futro, futrzany
-lacy;koronkowy
-lined;na podszewce, ocieplany
-big-headed;zarozumiały
-cheerful;radosny, pogodny
-nasty;złośliwy, wstrętny, nieprzyjemny
-outgoing;otwarty, towarzyski
-unselfish;bezinteresowny
-silly;niemądry, głupkowaty
-untidy;niechlujny
-bossy;apodyktyczny
-modest;skromny
-sincere;szczery
-sympathetic;życzliwy, współczujący
-whizzkid;cudowne dziecko
-withdrawn;zamknięty w sobie
-annoyed;zirytowany, rozdrażniony
-cross;zły, rozgniewany
-embarrassed;zawstydziony
-exhausted;wyczerpany, zmęczony
-frightened;przerażony
-nervous;zdenerwowany, spięty
-pleased;zadowolony
-upset;przygnębiony, zaniepokojony
-amazed;zdumiony, zdziwiony
-delighted;zachwycony
-shattered;zdruzgotany, wykończony
-stunned;oniemiały, osłupiały
-worn out;wycieńczony, wyczerpany
-be hopeless at;być beznadziejnym w
-be into sth;zajmować się czymś, interesować
-be mad about;szaleć za
-work out;trenować, ćwiczyć
-drug abuse;zażywanie narkotyków
-develop into;razwinąć się w, stawać się
-focus on;skupiać się na
-health nut;osoba mająca obsesję na punkcie zdrowia
-look up to;podziwiać
-realise;zdać sobie sprawę
-remind sb to do sth;przypomnieć komuś, by coś zrobił
-spot;dostrzec
-the complete opposite;całkowite przeciwieństwo
-typical of;typowy dla
-be part of sb's nature;leżeć w czyjejś (sb's) naturze
-find common ground;znaleźć wspólną płaszczyznę
-place;rozpoznać, zidentyfikować
-pluck up the courage;zdobyć się na odwagę (aby coś zrobić)
-raise questions;nasuwać pytania
-sophisticated;skomplikowany, zaawansowany
-strike up;nawiązać (rozmowę)
+plain;pospolity, nieatrakcyjny;0;2022-01-27
+go for;wybierać, sięgać po (ciemniejsze kolory);0;2022-01-27
+lanky;tyczkowaty, wysoki i chudy;0;2022-01-26
+stocky;krępy;0;2022-01-26
+dyed;farbowane;0;2022-01-26
+fringe;grzywka;0;2022-01-26
+wear hair loose/up;nosić włosy rozpuszczone/spięte;0;2022-01-26
+freckles;piegi;0;2022-01-26
+pale/tanned/dark complexion;blada/opalona/ciemna karnacja;0;2022-01-26
+spotty;pryszczaty;0;2022-01-26
+birthmark;znamię;0;2022-01-26
+clear skin;gładka skóra;0;2022-01-26
+fleece;bluza polarowa;0;2022-01-26
+trainers;obuwie sportowe;0;2022-01-26
+waistcoat;kamizelka;0;2022-01-26
+boat-necked;z szerkokim dekoltem;0;2022-01-26
+cardigan;rozpinany sweter;0;2022-01-26
+collar;kołnierzyk;0;2022-01-26
+cuffs;mankiety;0;2022-01-26
+dressing gown;szlafrok;0;2022-01-26
+short-sleeved;z krótkim rękawem;0;2022-01-26
+strapless top;bluzka bez ramiączek;0;2022-01-26
+shoe laces;sznurówki;0;2022-01-26
+checked;w kratę;0;2022-01-26
+plain;gładki;0;2022-01-26
+spotted;w kropki;0;2022-01-26
+fur;futro, futrzany;0;2022-01-26
+lacy;koronkowy;0;2022-01-26
+lined;na podszewce, ocieplany;0;2022-01-26
+big-headed;zarozumiały;0;2022-01-26
+cheerful;radosny, pogodny;0;2022-01-26
+nasty;złośliwy, wstrętny, nieprzyjemny;0;2022-01-26
+outgoing;otwarty, towarzyski;0;2022-01-26
+unselfish;bezinteresowny;0;2022-01-26
+silly;niemądry, głupkowaty;0;2022-01-26
+untidy;niechlujny;0;2022-01-26
+bossy;apodyktyczny;0;2022-01-26
+modest;skromny;0;2022-01-26
+sincere;szczery;0;2022-01-26
+sympathetic;życzliwy, współczujący;0;2022-01-26
+whizzkid;cudowne dziecko;0;2022-01-26
+withdrawn;zamknięty w sobie;0;2022-01-26
+annoyed;zirytowany, rozdrażniony;0;2022-01-26
+cross;zły, rozgniewany;0;2022-01-26
+embarrassed;zawstydziony;0;2022-01-26
+exhausted;wyczerpany, zmęczony;0;2022-01-26
+frightened;przerażony;0;2022-01-26
+nervous;zdenerwowany, spięty;0;2022-01-26
+pleased;zadowolony;0;2022-01-26
+upset;przygnębiony, zaniepokojony;0;2022-01-26
+amazed;zdumiony, zdziwiony;0;2022-01-26
+delighted;zachwycony;0;2022-01-26
+shattered;zdruzgotany, wykończony;0;2022-01-26
+stunned;oniemiały, osłupiały;0;2022-01-26
+worn out;wycieńczony, wyczerpany;0;2022-01-26
+be hopeless at;być beznadziejnym w;0;2022-01-26
+be into sth;zajmować się czymś, interesować;0;2022-01-26
+be mad about;szaleć za;0;2022-01-26
+work out;trenować, ćwiczyć;0;2022-01-26
+drug abuse;zażywanie narkotyków;0;2022-01-26
+develop into;razwinąć się w, stawać się;0;2022-01-26
+focus on;skupiać się na;0;2022-01-26
+health nut;osoba mająca obsesję na punkcie zdrowia;0;2022-01-26
+look up to;podziwiać;0;2022-01-26
+realise;zdać sobie sprawę;0;2022-01-26
+remind sb to do sth;przypomnieć komuś, by coś zrobił;0;2022-01-26
+spot;dostrzec;0;2022-01-26
+the complete opposite;całkowite przeciwieństwo;0;2022-01-26
+typical of;typowy dla;0;2022-01-26
+be part of sb's nature;leżeć w czyjejś (sb's) naturze;0;2022-01-26
+find common ground;znaleźć wspólną płaszczyznę;0;2022-01-26
+place;rozpoznać, zidentyfikować;0;2022-01-26
+pluck up the courage;zdobyć się na odwagę (aby coś zrobić);0;2022-01-26
+raise questions;nasuwać pytania;0;2022-01-26
+sophisticated;skomplikowany, zaawansowany;0;2022-01-26
+strike up;nawiązać (rozmowę);0;2022-01-26

@@ -10,7 +10,7 @@ from sys import exit
 def prepareFlashcards():
 
     try:
-        records = open(dataFile, "r", encoding="utf-8").readlines()
+        records = open(dataFile, 'r', encoding="utf-8").readlines()
     except FileNotFoundError:
         input('Plik data.txt nie istnieje\n[Enter]')
         exit()
