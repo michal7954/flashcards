@@ -20,6 +20,7 @@ słówko;definicja
 angielski;polski
 go for;wybierać, sięgać po
 Jedna linijka to jedno słówko. Aplikacja utworzy dwie dodatkowe kolumny: poziom postępu (0-4) i datę następnego odpytywania.
+Plik zawiera już przykładową listę słówkek.
 
 2. Uruchomić flashcards.exe
 

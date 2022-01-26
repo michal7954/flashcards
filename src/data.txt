@@ -1,1 +1,76 @@
-dupa;;0;2022-01-25
+plain;pospolity, nieatrakcyjny
+go for;wybierać, sięgać po (ciemniejsze kolory)
+lanky;tyczkowaty, wysoki i chudy
+stocky;krępy
+dyed;farbowane
+fringe;grzywka
+wear hair loose/up;nosić włosy rozpuszczone/spięte
+freckles;piegi
+pale/tanned/dark complexion;blada/opalona/ciemna karnacja
+spotty;pryszczaty
+birthmark;znamię
+clear skin;gładka skóra
+fleece;bluza polarowa
+trainers;obuwie sportowe
+waistcoat;kamizelka
+boat-necked;z szerkokim dekoltem
+cardigan;rozpinany sweter
+collar;kołnierzyk
+cuffs;mankiety
+dressing gown;szlafrok
+short-sleeved;z krótkim rękawem
+strapless top;bluzka bez ramiączek
+shoe laces;sznurówki
+checked;w kratę
+plain;gładki
+spotted;w kropki
+fur;futro, futrzany
+lacy;koronkowy
+lined;na podszewce, ocieplany
+big-headed;zarozumiały
+cheerful;radosny, pogodny
+nasty;złośliwy, wstrętny, nieprzyjemny
+outgoing;otwarty, towarzyski
+unselfish;bezinteresowny
+silly;niemądry, głupkowaty
+untidy;niechlujny
+bossy;apodyktyczny
+modest;skromny
+sincere;szczery
+sympathetic;życzliwy, współczujący
+whizzkid;cudowne dziecko
+withdrawn;zamknięty w sobie
+annoyed;zirytowany, rozdrażniony
+cross;zły, rozgniewany
+embarrassed;zawstydziony
+exhausted;wyczerpany, zmęczony
+frightened;przerażony
+nervous;zdenerwowany, spięty
+pleased;zadowolony
+upset;przygnębiony, zaniepokojony
+amazed;zdumiony, zdziwiony
+delighted;zachwycony
+shattered;zdruzgotany, wykończony
+stunned;oniemiały, osłupiały
+worn out;wycieńczony, wyczerpany
+be hopeless at;być beznadziejnym w
+be into sth;zajmować się czymś, interesować
+be mad about;szaleć za
+work out;trenować, ćwiczyć
+drug abuse;zażywanie narkotyków
+develop into;razwinąć się w, stawać się
+focus on;skupiać się na
+health nut;osoba mająca obsesję na punkcie zdrowia
+look up to;podziwiać
+realise;zdać sobie sprawę
+remind sb to do sth;przypomnieć komuś, by coś zrobił
+spot;dostrzec
+the complete opposite;całkowite przeciwieństwo
+typical of;typowy dla
+be part of sb's nature;leżeć w czyjejś (sb's) naturze
+find common ground;znaleźć wspólną płaszczyznę
+place;rozpoznać, zidentyfikować
+pluck up the courage;zdobyć się na odwagę (aby coś zrobić)
+raise questions;nasuwać pytania
+sophisticated;skomplikowany, zaawansowany
+strike up;nawiązać (rozmowę)
