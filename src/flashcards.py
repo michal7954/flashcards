@@ -21,6 +21,9 @@ def prepareFlashcards():
     for lineNumber, record in enumerate(records):
         data = record.rstrip('\n').split(';')
 
+        if len(data) == 1:
+            continue
+
         if not len(data) in [2, 4]:
             input(f'Błędny wiersz w pliku data.txt:\n{record}\n[Enter]')
             exit()
