@@ -12,6 +12,8 @@ Kiedy wpiszemy słowo błędnie, pojawia się informacja o liczbie różnic wzgl
 
 Za każdym razem, po podaniu lub wyświetleniu poprawnego słówka, użytkownik podejmuje decyzję czy system ma zaliczyć słówko.
 
+Można zakończyć naukę w dowolnym momencie. Postępy są zapisywane na bieżąco, a o słówka, które były zaplanowane na dzisiaj aplikacja zapyta jutro.
+
 
 # Obsługa programu:
 
