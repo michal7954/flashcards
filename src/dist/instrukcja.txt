@@ -25,6 +25,7 @@ the complete opposite;całkowite przeciwieństwo
 Jedna linijka to jedno słówko. Linie bez średników są ignorowane. Aplikacja utworzy dwie dodatkowe kolumny: poziom postępu (0-4) i datę następnego odpytywania.
 Plik zawiera już przykładową listę słówkek.
 
-2. Uruchomić flashcards.exe
+2. Uruchomić flashcards.exe.
+Plik jest bezpieczny dla systemu, wykonuje tylko operacje na pliku data.txt. W przypadku problemów z oprogramowaniem antywirusowym trzeba dodać plik flashcards.exe do listy wyjątków.
 
 3. Nie modyfikować pliku data.txt podczas działania aplikacji. Po zamknięciu aplikacji można dodawać, modyfikować i usuwać słówka z listy.
