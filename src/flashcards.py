@@ -5,6 +5,7 @@ from Flashcard import Flashcard
 from helpers.differencesNumber import differencesNumber
 from helpers.ui import printFlashcard, printHeader, printFooter, printCorrect, printMistake
 from sys import exit
+from colorama import init as initColorama
 
 
 def prepareFlashcards():
@@ -79,6 +80,8 @@ def questionFlashcards(flashcards):
 
 
 def main():
+
+    initColorama()
 
     flashcards = prepareFlashcards()
 
