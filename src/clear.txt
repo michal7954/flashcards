@@ -1,0 +1,280 @@
+plain;pospolity, nieatrakcyjny
+go for;wybierać, sięgać po (ciemniejsze kolory)
+lanky;tyczkowaty, wysoki i chudy
+stocky;krępy
+dyed;farbowane
+fringe;grzywka
+wear hair loose/up;nosić włosy rozpuszczone/spięte
+freckles;piegi
+pale/tanned/dark complexion;blada/opalona/ciemna karnacja
+spotty;pryszczaty
+birthmark;znamię
+clear skin;gładka skóra
+fleece;bluza polarowa
+trainers;obuwie sportowe
+waistcoat;kamizelka
+boat-necked;z szerkokim dekoltem
+cardigan;rozpinany sweter
+collar;kołnierzyk
+cuffs;mankiety
+dressing gown;szlafrok
+short-sleeved;z krótkim rękawem
+strapless top;bluzka bez ramiączek
+shoe laces;sznurówki
+checked;w kratę
+plain;gładki
+spotted;w kropki
+fur;futro, futrzany
+lacy;koronkowy
+lined;na podszewce, ocieplany
+big-headed;zarozumiały
+cheerful;radosny, pogodny
+nasty;złośliwy, wstrętny, nieprzyjemny
+outgoing;otwarty, towarzyski
+unselfish;bezinteresowny
+silly;niemądry, głupkowaty
+untidy;niechlujny
+bossy;apodyktyczny
+modest;skromny
+sincere;szczery
+sympathetic;życzliwy, współczujący
+whizzkid;cudowne dziecko
+withdrawn;zamknięty w sobie
+annoyed;zirytowany, rozdrażniony
+cross;zły, rozgniewany
+embarrassed;zawstydziony
+exhausted;wyczerpany, zmęczony
+frightened;przerażony
+nervous;zdenerwowany, spięty
+pleased;zadowolony
+upset;przygnębiony, zaniepokojony
+amazed;zdumiony, zdziwiony
+delighted;zachwycony
+shattered;zdruzgotany, wykończony
+stunned;oniemiały, osłupiały
+worn out;wycieńczony, wyczerpany
+be hopeless at;być beznadziejnym w
+be into sth;zajmować się czymś, interesować
+be mad about;szaleć za
+work out;trenować, ćwiczyć
+drug abuse;zażywanie narkotyków
+develop into;razwinąć się w, stawać się
+focus on;skupiać się na
+health nut;osoba mająca obsesję na punkcie zdrowia
+look up to;podziwiać
+realise;zdać sobie sprawę
+remind sb to do sth;przypomnieć komuś, by coś zrobił
+spot;dostrzec
+the complete opposite;całkowite przeciwieństwo
+typical of;typowy dla
+be part of sb's nature;leżeć w czyjejś (sb's) naturze
+find common ground;znaleźć wspólną płaszczyznę
+place;rozpoznać, zidentyfikować
+pluck up the courage;zdobyć się na odwagę (aby coś zrobić)
+raise questions;nasuwać pytania
+sophisticated;skomplikowany, zaawansowany
+strike up;nawiązać (rozmowę)
+
+bungalow;dom parterowy
+cottage;domek wiejski
+detached house;wolno stojący dom jednorodzinny
+farmhouse;dom w gospodarstwie rolnym
+flat;mieszkanie
+mansion;pałac, rezydencja
+nursing home;dom spokojnej starości
+studio flat;kawalerka
+terraced house;dom szeregowy, segment
+tower block;wieżowiec
+affordable housing;domy, mieszkania w przystępnej cenie
+all mod cons;wszystkie wygody
+auction;aukcja, licytacja
+bedsit;kawalerka do wynajęcia
+bid;oferta w licytacji
+dilapidated;zniszczony, walący się
+housing estate;osiedle mieszkaniowe
+in need of renovation;do remontu
+mobile home;przyczepa mieszkalna
+retirement flat;mieszkanie dla emeryta
+sheltered accommodation;mieszkania dla osób wymagających opieki
+under construction;w budowie
+away from;z dala od
+commute;dojeżdżać (do pracy lub do szkoły)
+district;dzielnica
+in a rural area;w wiejskiej okolicy
+in the centre;w centrum
+in the countryside;na wsi
+in the suburbs;na przedmieściach
+inhabitant;mieszkaniec/mieszkanka
+neighbourhood;sąsiedztwo, okolica
+on the edge of;na skraju (czegoś)
+overlook;wychodzić na, mieć widok na
+residents;mieszkańcy
+a stone's throw from;rzut kamieniem od
+across the road from;po drugiej stronie ulicy
+amenities;udogodnienia
+central location;centralne położenie
+hustle and bustle;zgiełk
+in the heart of the countryside;na głębokiej wsi
+in the middle of nowhere;na odludziu, w szczerym polu
+lane;dróżka
+off the beaten track;na uboczu
+within walking distance of;w bliskiej odległości (możlkiwej do pokonania pieszo)
+attic;strych, poddasze
+balcony;balkon
+basement/cellar;piwnica (dwa synonimy)
+carpot;wiata na samochów
+ceilling;sufit
+chimney;komin
+downstairs;na dole, na parterze
+drive;podjazd
+fence;ogrodzenie, płot
+fireplace;kominek
+ground floor;parter
+hall;hol
+hedge;żywopłot
+island;wyspa kuchenna
+laundry room;domowa pralnia
+lift;winda
+lounge;salon
+loft;strych, poddasze
+porch;ganek
+shed;szopa
+sitting room;pokój dzienny
+staircase;klatka schodowa
+steps;schodki
+study;gabinet
+upstairs;na górze, na piętrze
+burglar alarm;alarm antywłamaniowy
+double-glazed;z podwójną szybą
+extension;przybudówka
+fish pond;staw rybny
+floorboards;deski podłogowe
+flowerbed;klomb
+landing;półpiętro
+smoke alarm;alarm przeciwpożarowy
+solar panels;panele słoneczne
+stair rail;poręcz przy schodach
+utility room;pomieszczenie gospodarcze
+windowsill;parapet okienny
+airy;przestronny
+cluttered;zagracony
+convert;przerobić, przekształcić
+cosy;przytulny
+decorated;wykończony, odnowiony
+homely;przytulny
+luxurious;luksusowy
+maintain;utrzymywać, konserwować
+modern;nowoczesny
+spacious;przestronny
+badly-decorated;źle wykończony
+cramped;ciasny
+dingy;obskurny
+dusty;zakurzony
+oak;dębowy
+old-fashioned;staromodny
+open-plan;bez ścian działowych
+stuffy;duszny
+unique-looking;o unikalnym wyglądzie
+well-maintained;dobrze utrzymany, zadbany
+armchair;fotel
+redside table;stolik nocny
+blanket;koc
+blinds;rolety
+bookcase;biblioteczka
+bookshelves;półki na książki
+chest of drawers;komoda
+cooker;kuchenka
+cupboard;szafka kuchanna
+curtains;zasłony
+net curtains;firanki
+cushion;poduszka (dekoracyjna)
+dishwasher;zmywarka
+duvert;kołdra
+equipment;wyposażenie, sprzęt
+fireplace;kominek
+fitted carpet;wykładzina dywanowa
+flowerpot;doniczka
+freezer;zamrażarka
+hoover;odkurzacz
+lightning;oświetlenie
+oven;piekarnik
+radiator;kaloryfer
+rug;dywanik
+sheet;prześcieradło
+sofa;kanapa
+wallpaper;tapeta
+washbasin;umywalka
+washing machine;pralka
+antique;zabytkowy, starośiwcki
+fruit bowl;miska na oboce
+hand (of a clock);wskazówka (zegara)
+kettle;czajnik
+kitchen appliances;sprzęty kuchenne
+kitchen utensils;przbory kuchenne
+mantelpiece;półka nad kominkiem
+ornament;ozdoba
+potted plant;roślina doniczkowa
+rack;półka, stojak
+shutters;okiennice
+silver frame;srebrna ramka
+change the sheets;zmienić pościel
+do the gardening;pracować w ogrodzie
+empty the dishwasher;opróżniać zmywarkę
+have green fingers;mieć dobrą rękę do roślin
+mow the lawn;kosić trawnik
+sweep the floor;zamiatać podłogę
+tidy the desk;porządkować biurko
+broom;miotła
+brush;szczotka;
+duster;ściereczka do kurzu
+lawnmower;kosiarka
+rake;grabie
+rubber gloves;gumowe rękawiczki
+spade;szpadel
+trowel;rydel
+for sale;na sprzedaż
+landlord/landlady;właściciel/właścicielka (mieszkania lub domu)
+live on one's own;mieszkać samemu
+pay in advance;zapłacić z góry
+share a room/flat/house;dzielić z kimś pokój/mieszkanie/dom
+to let;do wynajęcia
+bill;rachunek
+budget;budżet
+charge;liczyć, pobierać opłatę
+deposit;kaucja, zaliczka
+estate agent;agent/agentka nieruchomości
+housewarming party;parapetówka
+instalments;raty
+notice;wypowiedzenie
+payment;płatność
+per week/per month;tygodniowo/miesiącznie
+take out a mortgage;wziąć kredyt hipoteczny
+tenant;najemca, lokator
+affordable;w przystępnej cenie
+beyond;poza
+complain;skarżyć się, narzekać
+embellish;upiększyć, podkolorować
+keep your eyes on;nie spuszczać (kogoś/czegoś) z oczu
+nearby;w pobliżu, pobliski
+rough;niebezpieczny
+sharp;ostry
+sigh;wzdychać, westchnienie
+stare at;wpatrywać  się w 
+sulk;dąsać się
+tiny;maleńki, niewielki
+be off your head;być szalonym
+blurry;nieostry, zamazany
+bump into;wpaść na kogoś,m spotkać przpadkiem
+get into;wsiąść
+kick up a fuss;zrobić awanturę
+rambling;pełen zakamarków
+run-down;zniszczony, podupadły
+snug;przytulny, zaciszny
+solitude;samotność
+squashed;wciśnięty
+stain;plama
+stream in;wlewać się
+stumble upon;natknąć się na
+turn into;zmienić się w, przeobrazić się w 
+turn up for;pojawić się na
+wrapped up in;pochłonięty czymś
