@@ -17,15 +17,19 @@ Można zakończyć naukę w dowolnym momencie. Postępy są zapisywane na bież�
 
 # Obsługa programu:
 
-1. W pliku data.txt (kodowanie UTF-8) wprowadzić listę słówek w formacie
+1. Pobrać plik zip na komputer i go rozpakować.
+
+2. W pliku data.txt (kodowanie UTF-8) wprowadzić listę słówek w formacie
 słówko;definicja
 angielski;polski
 the complete opposite;całkowite przeciwieństwo
 
 Jedna linijka to jedno słówko. Linie bez średników są ignorowane. Aplikacja utworzy dwie dodatkowe kolumny: poziom postępu (0-4) i datę następnego odpytywania.
-Plik zawiera już przykładową listę słówkek.
+Plik zawiera już przykładową listę słówkek, którą można w całości usunąć.
 
-2. Uruchomić flashcards.exe.
-Plik jest bezpieczny dla systemu, wykonuje tylko operacje na pliku data.txt. W przypadku problemów z oprogramowaniem antywirusowym trzeba dodać plik flashcards.exe do listy wyjątków.
+Jeżeli lista słówek jest już przygotowana to wystarczy połączyć w jednym folderze plik data.txt z najnowszą wersją pliku flashcards.exe. Nieaktualny plik exe i przykładowy plik data.txt mogą zostać usunięte.
 
-3. Nie modyfikować pliku data.txt podczas działania aplikacji. Po zamknięciu aplikacji można dodawać, modyfikować i usuwać słówka z listy.
+3. Uruchomić flashcards.exe.
+Plik jest bezpieczny dla systemu, wykonuje tylko operacje na pliku data.txt. W przypadku problemów z antywirusem lub dostępem do pliku trzeba dodać plik flashcards.exe do listy wyjątków.
+
+4. Nie modyfikować pliku data.txt podczas działania aplikacji. Po zamknięciu aplikacji można dodawać, modyfikować i usuwać słówka z listy.
