@@ -51,6 +51,8 @@ def levenshteinRatioAndDistance(s, t, ratio_calc=False):
 
 
 def differencesNumber(orginal, answer):
+    if not answer:
+        return len(orginal)
     orginal = orginal.lower()
     answer = answer.lower()
     return levenshteinRatioAndDistance(orginal, answer)

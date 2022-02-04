@@ -225,7 +225,7 @@ mow the lawn;kosić trawnik
 sweep the floor;zamiatać podłogę
 tidy the desk;porządkować biurko
 broom;miotła
-brush;szczotka;
+brush;szczotka
 duster;ściereczka do kurzu
 lawnmower;kosiarka
 rake;grabie
