@@ -3,19 +3,25 @@ Aplikacja do wielokrotnego powtarzania słówek.
 
 # Zasady:
 
+Danego dnia słówka są sortowane od najwyższego poziomu (etapu nauki), czyli od tych które były powtarzane wcześniej. Dla słówek o tym samym poziomie jest zachowana kolejność z pliku data.txt
+
+Aplikacja podaje informację o liczbie pozostałych słówek na dzisiaj, o etapie nauki słówka i definicję (polskie tłumaczenie) słówka. Użytkownik może spróbować wpisać słówko (po angielsku) lub wybrać jedną z dwóch opcji:
+1 - wyświetlenie podpowiedzi po jednej literce, można używać wielokrotnie
+2 - poddanie się i wyświetlenie całego słówka
+
+Kiedy wpiszemy słowo błędnie, pojawia się informacja o liczbie różnic względem poprawnego słowa. Jedna różnica oznacza konieczność dodania, usunięcia lub modyfikacji jednej litery. Można ponownie wprowadzić słówko.
+
+Za każdym razem, po wpisaniu poprawnego słówka lub poddaniu słówka, użytkownik podejmuje decyzję czy system ma zaliczyć słówko.
+
 Aby słówko zostało uznane za nauczone należy zaliczyć je 5 razy z rzędu.
-Kiedy pierwszy raz słówko zostanie zaliczone, aplikacja zapyta o nie po 3 dniach. Potem analogicznie po 7, 14 i 31 dniach. Niezaliczenie któregoś z etapów powoduje powrót do poziomu 0 :( Kolejne powtórzenie słówka będzie miało miejsce następnego dnia.
+Kiedy pierwszy raz słówko zostanie zaliczone, aplikacja zapyta o nie po 3 dniach. Potem analogicznie po 7, 14 i 31 dniach. Niezaliczenie któregoś z etapów powoduje powrót do poziomu 0 :( Wtedy kolejne powtórzenie słówka będzie miało miejsce następnego dnia.
+Poziom nauki:       0   1   2   3   4
+Ile dni przerwy:    1   3   7   14  31
 
-Danego dnia słówka są sortowane od najwyższego poziomu (etapu nauki). Dla słówek o tym samym poziomie jest zachowana kolejność z pliku.
-
-Kiedy wpiszemy słowo błędnie, pojawia się informacja o liczbie różnic względem poprawnego słowa. Jedna różnica oznacza konieczność dodania, usunięcia lub modyfikacji jednej z liter.
-
-Za każdym razem, po podaniu lub wyświetleniu poprawnego słówka, użytkownik podejmuje decyzję czy system ma zaliczyć słówko.
-
-Można zakończyć naukę w dowolnym momencie. Postępy są zapisywane na bieżąco, a o słówka, które były zaplanowane na dzisiaj aplikacja zapyta jutro.
+Można zakończyć naukę w dowolnym momencie. Postępy są zapisywane na bieżąco. O słówka, które były zaplanowane na dzisiaj aplikacja zapyta kolejnego dnia.
 
 
-# Obsługa programu:
+# Uruchomienie programu:
 
 1. Pobrać plik zip na komputer i go rozpakować.
 
@@ -29,7 +35,9 @@ Plik zawiera już przykładową listę słówkek, którą można w całości usu
 
 Jeżeli lista słówek jest już przygotowana to wystarczy połączyć w jednym folderze plik data.txt z najnowszą wersją pliku flashcards.exe. Nieaktualny plik exe i przykładowy plik data.txt mogą zostać usunięte.
 
+Na wszelki wypadek można przechowywać kopie zapasowe pliku data.txt.
+
 3. Uruchomić flashcards.exe.
 Plik jest bezpieczny dla systemu, wykonuje tylko operacje na pliku data.txt. W przypadku problemów z antywirusem lub dostępem do pliku trzeba dodać plik flashcards.exe do listy wyjątków.
 
-4. Nie modyfikować pliku data.txt podczas działania aplikacji. Po zamknięciu aplikacji można dodawać, modyfikować i usuwać słówka z listy.
+4. Nie modyfikować pliku data.txt podczas działania aplikacji, może to spowodować błędy w pliku. Po zamknięciu aplikacji można dodawać, modyfikować i usuwać słówka z listy.
