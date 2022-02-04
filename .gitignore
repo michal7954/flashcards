@@ -11,6 +11,7 @@ __pycache__/
 build/
 develop-eggs/
 src/dist/flashcards.exe
+src/dist/*.zip
 downloads/
 eggs/
 .eggs/
