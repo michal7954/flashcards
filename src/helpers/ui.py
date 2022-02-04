@@ -13,7 +13,8 @@ def printCorrect(content):
 
 def printHeader():
     system('cls')
-    print('Nauka słówek\n')
+    print('Nauka słówek')
+    print('© Michał Madeja\n')
     print('Opcje:')
     print('1 - podpowiedź')
     print('2 - wyświetl odpowiedź')
