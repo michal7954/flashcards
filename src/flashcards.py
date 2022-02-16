@@ -26,22 +26,27 @@ def prepareFlashcards():
             continue
 
         if not len(data) in [2, 4]:
-            input(f'Błędny wiersz w pliku data.txt:\n{record}\n[Enter]')
+            input(f'Błędny wiersz w pliku data.txt:\n{record}[Enter]')
             exit()
 
-        if len(data) == 2:
-            data = data[:2]
-            data.extend(['0', str(today)])
-            replaceLine(lineNumber, data)
+        try: 
+            if len(data) == 2:
+                data = data[:2]
+                data.extend(['0', str(today)])
+                replaceLine(lineNumber, data)
 
-        if data[3] == 'None':
-            continue
+            if data[3] == 'None':
+                continue
 
-        data[2] = int(data[2])
-        data[3] = date.fromisoformat(data[3])
+            data[2] = int(data[2])
+            data[3] = date.fromisoformat(data[3])
 
-        if data[3] <= today:
-            flashcards.append(Flashcard(lineNumber, *data))
+            if data[3] <= today:
+                flashcards.append(Flashcard(lineNumber, *data))
+
+        except:
+            input(f'Błędny wiersz w pliku data.txt:\n{record}[Enter]')
+            exit()
 
     return sorted(flashcards, key=lambda card: card.progress, reverse=True)
 
