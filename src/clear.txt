@@ -278,3 +278,152 @@ stumble upon;natknąć się na
 turn into;zmienić się w, przeobrazić się w 
 turn up for;pojawić się na
 wrapped up in;pochłonięty czymś
+
+humanities;nauki humanistyczne
+religious education;religia
+social sciences;nauki społeczne
+design and technology;technika
+economic education;ekonomia
+environmental science;nauka o ochronie środowiska
+media studies;medioznawstwo
+sports psychology;psychologia sportu
+cram;wkuwać
+exam paper;arkusz egzaminacyjny
+examination;egzamin
+extra lessons;dodatkowe lekcje
+take an exam;podejść do egzaminu
+fail;oblać
+get caught;zostać złapanym
+give marks;wystawiać oceny
+go towards;składać się na
+mock/practice exam;egzamin próbny
+past paper;arkusz egzaminacyjny z poprzednich lat
+revise for;powtarzać do
+school-leaving exam;egzamin kończący naukę w szkole
+send out;wysyłać
+written;pisemny
+A levels;brytyjski odpowiednik matury
+academic results;wyniki w nauce
+award;nagroda, nagrodzić
+Bachelor of Arts;licencjat na kierunku humanistycznym
+Master of Arts;magister nauk humanistycznych
+Bachelor of Science;licencjat w dziedzinie nauk ścisłych lub przyrodniczych
+certificate;świadectwo
+distinction;wyróżnienie
+GCSEs;brytyjski odpowiednik egzaminu gimnazjalnego
+get a degree;otrzymać stopień naukowy
+graduate;absolwent/absolwentka studiów
+graduate from;ukończyć (studia wyższe)
+International Baccalaureate;matura międzynarodowa
+pass with flying colours;zdać celująco, śpiewająco
+scrape through;z trudem przebrnąć (np. przez egzamin)
+win a scholarship;zdobyć stypendium
+bully;dręczyć, prześladować
+coursebook;podręcznik
+coursework;praca okresowa
+curriculum;program nauczania
+dictation;dyktando
+do/write an assignment;wykonać/napisać zadaną pracę
+hand in homework;oddać pracę domową
+miss lessons;opuszczać lekcje
+motivate/motivating;motywować/motywujący
+packed lunch;drugie śniadanie
+PE kit;strój sportowy
+play truant;wagarować
+present;prezentować, obecny
+report;zgłosić, donieść
+set homework;zadawać pracę domową
+take notes;robić notatki
+term;semestr
+timetable;plan zajęć
+absentee;osoba nieobecna
+absenteeism;absencja
+assembly;zgromadzenie, apel
+attendance;obecność na zajęciach, frekwencja
+compulsory;obowiązkowy
+concentration span;czas skupienia uwagi
+cut classes;urwać się z lekcji
+detention;koza (kara szkolna)
+forge;podrabiać
+free period;wolna lekcja, okienko
+old student;były uczeń
+prize-giving;rozdanie nagród
+punctuality;punktualność
+take the register;sprawdzać obecność
+take time off;wziąć wolne
+tutorial;konsultacje
+caretaker;woźny/wośna
+classroom assistant;asystent nauczyciela
+form tutor;wychowawca
+headmaster/headmistress;dyrektor/dyrektorka szkoły
+staff;grono pedagogiczne
+careers adviser;doradca zawodowy
+deputy head;wicedyrektor
+head girl;przewodnicząca samorządu szkolnego
+lecturer;wykładowca
+prefect;gospodarz, przewodniczący klasy
+common room;świetlica
+head teacher's office;gabinet dyrektora szkołu
+sports field;boisko
+staffroom;pokój nauczycielski
+lecture theatre;aula
+belong to;należeć do
+charity event;impreza charytatywna
+exchange trip;wycieczka w ramach wymiany międzyszkolnej
+join club/society;wstąpić do klubu/stowarzyszenia
+member;członek/członkini
+pay attention;uważać
+school trip;wycieczka szkolna
+society;kółko
+training;szkolenie
+voluntary work;wolontariat
+college;kolegium, szkoła pomaturalna
+comprehensive school;szkoła ogólnokształcąca przyjmująca wszystkich uczniów, niezależnie od ich wyników w nauce
+do vocational training;uczyć się zawodu
+elementary school;szkoła podstawowa
+grammar school;szkoła średnia z egzaminami wstępnymi
+independent school;szkoła prywatna
+kindergarten;przedszkole
+nursery;żłobek
+single-sex school
+state school;szkoła państwowa
+boarding school;szkoła z internatem
+school fees;czesne
+serve an apprenticeship;odbyć praktyki
+stream;dzielić uczniów na grupy (ze względu na umiejętności)
+workshop;warsztat
+concerned;zaniepokojony
+confused;zdezorientowany
+disappointed;rozczarowany
+elicit;wydobyć, uzyskać
+emphasise;podkreślić
+enforce;narzucić, wymusić
+ensure;zapewnić, upewnić się
+familiar;znajomy
+impressed;pod wrażeniem
+in favour of;na korzyść (czegoś)
+let loose;uwolnić
+live up to expectations;spełnić oczekiwania
+lose count of;stracić rachubę (czegoś)
+maniac;szaleniec, maniak
+put a plan into action;wprowadzić plan w życie
+rates;ceny, stawki
+the far end;przeciwległy koniec
+way too;o wiele za
+be in two minds about;nie móc się zdecydować na temat
+cater for;zaspokajać
+crave;pragnąć
+deserted;opustoszały, bezludny
+draw up;podjechać
+end up;skończyć (gdzieś, jako ktoś)
+face-to-face communication;bezpośrednia komunikacja międzyludzka
+in anticipation of;oczekując (na coś)
+memory aid;technika ułatwiająca zapamiętywanie
+motivational speech;przemówienie mające na celu zmotywowanie kadry lub zawodników do większego wysiłku
+opt for;optować za
+outperform;prześcignąć, pozostawić w tyle
+panel;zespół, ława
+struggle;wysilać się, usiłować
+subdivide;dzielić na mniejsze grupy
+treasured;cenny, ceniony
+vote with your feet;wyrazić niezadowolenie poprzez ostentacyjne wyjście lub odejście/wystąpienie (np. z kina, teatru, organizacji)
