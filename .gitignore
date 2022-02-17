@@ -1,3 +1,8 @@
+# my
+src/dist/flashcards.exe
+src/dist/*.zip
+src/tmp.mp3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -10,8 +15,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-src/dist/flashcards.exe
-src/dist/*.zip
 downloads/
 eggs/
 .eggs/
