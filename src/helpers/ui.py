@@ -19,6 +19,7 @@ def printHeader():
     print('1 - podpowiedź')
     print('2 - wyświetl odpowiedź')
     print('3 - odtwórz słówko')
+    print('4 - znajdź słówko w diki.pl')
     print()
 
 

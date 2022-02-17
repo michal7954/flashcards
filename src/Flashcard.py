@@ -1,10 +1,11 @@
 from helpers.replaceLine import replaceLine
 from datetime import date, timedelta
-from helpers.consts import days, tmpAudioFile
+from helpers.consts import days, tmpAudioFile, dikiUri
 today = date.today()
 import os
 from gtts import gTTS
 import playsound
+import webbrowser
 
 
 class Flashcard:
@@ -23,9 +24,11 @@ class Flashcard:
 
         decision = None
         while not decision in ['t', 'n']:
-            decision = input('Czy zaliczyć? [t/n/3]: ')
+            decision = input('Czy zaliczyć? [t/n/3/4]: ')
             if decision == '3':
                 self.read()
+            if decision == '4':
+                self.openInDiki()
 
         if decision == 't':
             self.progress += 1
@@ -49,3 +52,8 @@ class Flashcard:
         tts = gTTS(self.entry, lang='en')
         tts.save(tmpAudioFile)
         playsound.playsound(tmpAudioFile)
+
+    def openInDiki(self):
+        query=self.entry.replace(' ', '+')
+        uri = f'{dikiUri}{query}'
+        webbrowser.open(uri)

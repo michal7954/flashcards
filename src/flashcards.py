@@ -75,6 +75,8 @@ def questionFlashcards(flashcards):
                     break
                 elif answer == '3':
                     card.read()
+                elif answer == '4':
+                    card.openInDiki()
 
             else:
                 result = differencesNumber(card.entry, answer)

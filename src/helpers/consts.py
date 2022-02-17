@@ -1,5 +1,6 @@
 dataFile = 'data.txt'
 tmpAudioFile = 'tmp.mp3'
+dikiUri = 'https://www.diki.pl/slownik-angielskiego?q='
 days = [1, 3, 7, 14, 31]
 mistakeColor = '\033[91m'
 correctColor = '\033[92m'
