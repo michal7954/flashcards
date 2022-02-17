@@ -1,7 +1,10 @@
 from helpers.replaceLine import replaceLine
 from datetime import date, timedelta
-from helpers.consts import days
+from helpers.consts import days, tmpAudioFile
 today = date.today()
+import os
+from gtts import gTTS
+import playsound
 
 
 class Flashcard:
@@ -20,7 +23,9 @@ class Flashcard:
 
         decision = None
         while not decision in ['t', 'n']:
-            decision = input('Czy zaliczyć? [t/n]: ')
+            decision = input('Czy zaliczyć? [t/n/3]: ')
+            if decision == '3':
+                self.read()
 
         if decision == 't':
             self.progress += 1
@@ -33,3 +38,14 @@ class Flashcard:
             self.date = None
 
         self.save()
+
+    def read(self):
+        
+        try:
+            os.remove(tmpAudioFile)
+        except FileNotFoundError:
+            None
+
+        tts = gTTS(self.entry, lang='en')
+        tts.save(tmpAudioFile)
+        playsound.playsound(tmpAudioFile)

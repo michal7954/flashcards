@@ -73,6 +73,8 @@ def questionFlashcards(flashcards):
                     printCorrect(f'{card.entry}')
                     card.decide()
                     break
+                elif answer == '3':
+                    card.read()
 
             else:
                 result = differencesNumber(card.entry, answer)

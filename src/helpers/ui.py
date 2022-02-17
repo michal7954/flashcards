@@ -18,6 +18,7 @@ def printHeader():
     print('Opcje:')
     print('1 - podpowiedź')
     print('2 - wyświetl odpowiedź')
+    print('3 - odtwórz słówko')
     print()
 
 
