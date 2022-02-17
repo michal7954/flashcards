@@ -44,10 +44,8 @@ class Flashcard:
 
     def read(self):
         
-        try:
+        if os.path.isfile(tmpAudioFile):
             os.remove(tmpAudioFile)
-        except FileNotFoundError:
-            None
 
         tts = gTTS(self.entry, lang='en')
         tts.save(tmpAudioFile)
