@@ -8,10 +8,13 @@ Danego dnia słówka są sortowane od najwyższego poziomu (etapu nauki), czyli 
 Aplikacja podaje informację o liczbie pozostałych słówek na dzisiaj, o etapie nauki słówka i definicję (polskie tłumaczenie) słówka. Użytkownik może spróbować wpisać słówko (po angielsku) lub wybrać jedną z dwóch opcji:
 1 - wyświetlenie podpowiedzi po jednej literce, można używać wielokrotnie
 2 - poddanie się i wyświetlenie całego słówka
+3 - wysłuchanie wymowy słówka (wbudowana biblioteka), można używać wielokrotnie
+4 - otwarcie przeglądarki internetowej i wyszukanie słówka w słowniku diki.pl
 
 Kiedy wpiszemy słowo błędnie, pojawia się informacja o liczbie różnic względem poprawnego słowa. Jedna różnica oznacza konieczność dodania, usunięcia lub modyfikacji jednej litery. Można ponownie wprowadzić słówko.
 
 Za każdym razem, po wpisaniu poprawnego słówka lub poddaniu słówka, użytkownik podejmuje decyzję czy system ma zaliczyć słówko.
+Nadal można wybrać opcję 3 (odtworzenie słówka) lub 4 (wyszukanie na diki.pl).
 
 Aby słówko zostało uznane za nauczone należy zaliczyć je 5 razy z rzędu.
 Kiedy pierwszy raz słówko zostanie zaliczone, aplikacja zapyta o nie po 3 dniach. Potem analogicznie po 7, 14 i 31 dniach. Niezaliczenie któregoś z etapów powoduje powrót do poziomu 0 :( Wtedy kolejne powtórzenie słówka będzie miało miejsce następnego dnia.
