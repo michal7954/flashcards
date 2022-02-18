@@ -1,1 +1,2 @@
-pyinstaller -F .\flashcards.py
+pyinstaller -F .\flashcards.spec
+pause

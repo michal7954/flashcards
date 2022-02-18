@@ -1,5 +1,5 @@
 # my
-src/dist/flashcards.exe
+src/dist/*.exe
 src/dist/*.zip
 src/tmp.mp3
 
