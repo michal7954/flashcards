@@ -1,11 +1,10 @@
 from helpers.replaceLine import replaceLine
 from datetime import date, timedelta
-from helpers.consts import days, tmpAudioFile, dikiUri
+from helpers.consts import days, dikiUri
+from helpers.ui import printError
 today = date.today()
-import os
-from gtts import gTTS
-import playsound
 import webbrowser
+import pyttsx3
 
 
 class Flashcard:
@@ -43,13 +42,14 @@ class Flashcard:
         self.save()
 
     def read(self):
-        
-        if os.path.isfile(tmpAudioFile):
-            os.remove(tmpAudioFile)
-
-        tts = gTTS(self.entry, lang='en')
-        tts.save(tmpAudioFile)
-        playsound.playsound(tmpAudioFile)
+        try:
+            engine = pyttsx3.init()
+            engine.setProperty('voice', 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0')
+            engine.setProperty('rate', 110)
+            engine.say(self.entry.replace('/',' '))
+            engine.runAndWait()
+        except Exception as e:
+            printError(e)
 
     def openInDiki(self):
         query=self.entry.replace(' ', '+')
