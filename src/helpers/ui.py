@@ -32,3 +32,6 @@ def printFlashcard(cardNumber, cardsNumber, cardProgress, maxLevel, definition):
 def printFooter():
     system('cls')
     input('Dzisiaj już nie ma więcej słówek\n[Enter]')
+
+def printError(specific):
+    print(f'Wystąpił problem: {specific}')
