@@ -427,3 +427,151 @@ struggle;wysilać się, usiłować
 subdivide;dzielić na mniejsze grupy
 treasured;cenny, ceniony
 vote with your feet;wyrazić niezadowolenie poprzez ostentacyjne wyjście lub odejście/wystąpienie (np. z kina, teatru, organizacji)
+
+beautician;kosmetyczka
+bus driver;kierowca autobusu
+cashier;kasjer w banku
+economist;ekonomista
+farmer;rolnik
+flight attendant;steward/stewardesa
+hairdresser;fryzjer/fryzjerka
+paramedic;ratownik medyczny
+pharmacist;aptekarz
+plumber;hydraulik
+police officer;policjant/policjantka
+sales/shop assistant;sprzedawca/sprzedawczyni (2 synonimy) [...]/[...] [...]
+sales representative;reprezentant handlowy
+surgeon;chirurg
+travel agent;pracownik biura podróży
+waiter/waitress;kelner/kelnerka [...]/[...]
+carpenter;stolarz
+chief executive;dyrektor generalny
+comedian;komik, aktor komediowy
+counsellor;doradca
+doorman;portier
+editor;redaktor
+graphic designer;grafik
+handyman;majster, złota rączka
+nutritionist;dietetyk
+psychiatrist;psychiatra
+be in charge of;zarządzać, odpowiadać za
+do sth for a living;utrzymywać się z czegoś, robić coś zawodowo
+profession;zawód (wymagający kwalifikacji i doświadczenia)
+take responsibility for;wziąć odpowiedzialność za
+manual;fizyczny
+skilled;wymagający kwalifikacji
+challenging;ambitny, stanowiący wyzwanie
+dead-end;bez perspektyw
+monotonous;monotonny
+motivating;motywujący
+rewarding;satysfakcjonujący
+undemanding;niewymagający, łatwy
+bonus;premia
+chance of promotion;szansa na awans
+contract;umowa
+do/work shifts;robić/pracować na zmiany
+duties;obowiązki
+get a promotion;dostać awans
+promote;dać awans
+income;dochód
+leave job;odejść z pracy
+paid leave;płatny urlop
+get a pension/retire/retirement;dostać emeryturę/przejść na emeryturę/emerytura
+sick leave;zwolnienie lekarskie
+sick pay;zasiłek chorobowy
+work long hours;pracować do późna
+business trip;podróż służbowa, delegacja
+do the graveyard shift;pracować na nocną zmianę
+expenses;wydatki
+get regular feedback;otrzymywać regularny feedback
+have an appraisal;odbyć rozmowę z szefem na temat osiągnięć i wyników pracy pracownika
+hourly rate;stawka godzinowa
+job description;zakres obowiązków
+minimum wage;płaca minimalna
+pay into a pension scheme;płacić na fundusz emerytalny
+pay rise/increase;podwyżka pensji (2 synonimy)
+probation/prial period;okres próbny (2 synonimy)
+productivity;wydajność, efektywność
+public holiday;dzień ustawowo wolny od pracy
+quit a job;odejść z pracy
+sign a contract;podpisać umowę
+staff moral;morale w zespole
+take early retirement;przejść na wcześniejszą emeryturę
+take unpaid leave;wziąć urlop bezpłatny
+yearly appraisal;roczna ocena pracownika
+working conditions;warunki pracy
+babysitter;opiekunka do dzieci
+checkout assistant;kasjer w supermarkecie
+delivery boy;roznosiciel gazet
+fruit picking;zbieranie owoców
+lifeguard;ratownik
+summer camp supervisor;opiekun na obozie letnim
+tour guide
+advertise;ogłaszać
+applicant;kandydat do pracy
+apply for a job;ubiegać się o pracę
+be fired;zostać zwolnionym
+be made redundant;zostać zwolnionym w ramach redukcji etatów
+become employed;zostać zatrudnionym
+covering letter;list motywacyjny
+employee;pracownik
+enclose;załączyć
+entrepreneur;przedsiębiorca
+fill in;wypełnić
+find work;znaleźć pracę
+get careers advice;skorzystać z doradztwa zawodowego
+go bankrupt;zbankrutować
+go freelance/freelancer;zacząć pracować na własny rachunek/wolny strzelec
+hire;zatrudniać
+Jobcentre;biuro pośrednictwa pracy
+keep a record;prowadzić rejestr
+out of work;bez pracy
+post;stanowisko, posada
+recruitment;rekrutacja
+resign;złożyć rezygnację
+short list;lista najpoważniejszych kandydatów
+situations vacant;oferty pracy(rubryka w gazecie)
+unemployed;bezrobotny
+up-to-date;aktualny
+vacancy;wakat, wolne stanowisko
+attach a CV;załączyć CV
+check out a company;sprawdzić informacje o firmie
+get in-house training;przejść wewnętrzne szkolenie
+get sacked;zostać zwolnionym z pracy
+go on strike;strajkować
+hand in your notice;wręczyć wymówienie
+hand over information;przekazać informacje
+have a complaints procedure;mieć procedurę składania reklamacji
+join a union;zapisać się do związku zawodowego
+sign on(the dole);zarejestrować się jako bezrobotny
+start up a business;założyć firmę
+take on;przyjąć, zatrudnić
+take over from sb;przejąć od kogoś obowiązki
+take up a position;objąć stanowisko
+take up a reference;sprawdzić referencje kandydata
+work flexitime;mieć elastyczne godziny pracy
+at some poin;w którymś momencie
+drop out of;rzucić, przerwać
+grumpy;zrzędliwy
+inheritance;spadek
+launch;wprowadzić produkt na rynek
+money-making;dochodowy (zawód)
+summarise;podsumować
+well-being;dobre samopoczucie, dobrostan
+wonder;zastanawiać się
+body language;język ciała
+computer0generated;zaprojektowany za pomocą komputera
+contagious;zaraźliwy
+content;zadowolony
+devote oneself to;poświęcić się (czemuś)
+do sth workwise;robić coś w kwestiach zawodowych
+emerge;pojawić się
+go together;pasować do siebie, iść ze sobą w parze
+have no clue;nie mieć pojęcia
+last long;przetrwać, utrzymać się
+make the headlines;trafić na czołówki gazet
+money-minded;dbający tylko o pieniądze
+on top of;poza oprócz
+positive thinking;pozytywne myślenie
+put sth into practice;zastosować coś w praktyce
+technology-oriented;zainteresowany techniką
