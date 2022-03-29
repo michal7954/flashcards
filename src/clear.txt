@@ -560,7 +560,7 @@ summarise;podsumować
 well-being;dobre samopoczucie, dobrostan
 wonder;zastanawiać się
 body language;język ciała
-computer0generated;zaprojektowany za pomocą komputera
+computer generated;zaprojektowany za pomocą komputera
 contagious;zaraźliwy
 content;zadowolony
 devote oneself to;poświęcić się (czemuś)
@@ -575,3 +575,166 @@ on top of;poza oprócz
 positive thinking;pozytywne myślenie
 put sth into practice;zastosować coś w praktyce
 technology-oriented;zainteresowany techniką
+
+adolescence;wiek dojrzewania
+adolescent;dorastający chłopak lub dziewczyna
+adulthood;wiek dorosły
+birth;narodziny
+be born;urodzić się
+bring up;wychować
+elderly;starszy
+engagement;zaręczyny
+generation;pokolenie
+get engaged;zaręczyć się
+kid;dziecko, dzieciak
+leave home;wyprowadzić się z domu
+old age;starość
+toddler;małe dziecko (uczące się chodzić)
+young adult;młody dorosły
+youth;młodość
+be getting on;starzeć się, posuwać się w latach
+grow up;dorastać
+grown-up;dorosły
+in your early/mid/late twenties;w wieku dwudziestu kilku/około dwudziestu pięciu/niespełna trzydziestu lat
+look your age;wyglądać na swój wiek
+immature;niedojrzały
+turn forty;skończyć czterdzieści lat
+twenty-five-ish;około dwudziestu pięciu lat
+young at heart;młody duchem
+colleague;kolega/koleżanka z pracy
+divorced;rozwiedziony/a
+fiance;narzeczony (é)
+fiancee;narzeczona (pierwsze é)
+get on well with;mieć dobre stosunki z
+go round with;przestawać z
+gossip;plotki
+great-grandparent;pradziadek lub prababcia
+half brother;brat przyrodni
+keep in touch with;utrzymywać kontakt z
+make friends with;zaprzyjaźnić się z
+married;zamężna/żonaty
+siblings;rodzeństwo
+single parent;samotny rodzic
+take after;być podobnym (do kogoś z rodziny)
+twins;bliźnięta
+be complete opposites;bardzo różnić się od siebie, być jak ogień i woda
+best mate;najlepszy przyjaciel/przyjaciółka
+brother-in-law;szwagier
+distant cousin;daleki kuzyn/kuzynka
+extended family;rodzina wielopokoleniowa
+fostered/foster a child;umieszczony w rodzinie zastępczej/przyjąć dziecko do rodziny zastępczej
+identical twins;bliźnięta jednojajowe
+immediate family;najbliższa rodzina
+soulmate;bratnia dusza
+stepfather/stepmother;ojczym/macocha
+stepson/stepdaughter;pasierb/pasierbica
+sworn enemy;śmiertelny wróg
+brush your hair/teeth;szczotkować swoje włosy/zęby
+clear the table;sprzątać ze stołu
+do the washing-up;zmywać naczynia
+do your hair;układać swoje włosy
+get an early night;pójść wcześniej spać
+get dressed;ubierać się
+get ready for school;szykować się do szkoły
+have a lie-in;późno wstać, leżeć dłużej w łóżku
+lay the table;nakrywać do stołu
+lie down;położyć się
+load the dishwasher;ładować zmywarkę
+make a meal;przyrządzić posiłek
+put out the rubbish;wynosić śmieci
+set the alarm;nastawić budzik
+tell stories;opowiadać historie
+freshen up;odświeżyć się
+help out;pomagać
+pick up;kupić
+put on a wash;nastawić pranie
+run errands;załatwiać sprawy
+chat with friends;gawędzić ze znajomymi
+chill out;relaksować się
+come round to;wpaść do (kogoś z wizytą)
+do a crossword;rozwiązywać krzyżówkę
+go clubbing;chodzić do klubów
+go out for a meal;pójść do restauracji
+go skating;pójść na łyżwy
+go to a party;pójść na imprezę
+go to the gym;chodzić na siłownię
+have a night out;wybrać się gdzieś wieczorem
+have/organise/throw a party;zorganizować (3 synonimy) imprezę, przyjęcie
+play the guitar/piano;grać na gitarze/fortepianie
+practise;ćwiczyć
+sporty;wysportowany
+take a break;zrobić sobie przerwę
+take up a hobby;zająć się nowym hobby
+watch TV/film;oglądać telewizję/film
+best man;drużba
+bouquet;bukiet
+bridesmaid;druhna
+carnival;karnawał
+celebrate/celebration;obchodzić/uroczystość
+congratulations;gratulacje
+contest/competition;konkurs (2 synonimy)
+custom;zwyczaj
+fancy dress;kostium, przebranie
+festival;święto
+groom;pan młody
+reception;przyjęcie
+service;nabożeństwo, ceremonia
+wrap a present;opakować prezent
+birthday treat;niespodzianka, prezent z okazji urodzin
+carnival parade;parada karnawałowa
+family tradition;tradycja rodzinna
+fancy dress party;bal przebierańców
+golden hadshake;wysoka odprawa
+greetings card;kartka z życzeniami
+street party;impreza uliczna
+tie the knot;połączyć się węzłem małżeńskim
+argue/fall out with/have a fight;(po)kłócić się z (3 synonimy)
+argument/row;kłótnia (2 synonimy)
+behaviour;zachowanie
+disagreement;różnica zdać, sprzeczka
+get back together;wrócić do siebie
+get on (well) with;mieć (dobre) stosunki z
+go on about;ciągle mówić o
+ground;dać (dziecku) szlaban na wychodzenie z domu
+make up with;pogodzić się z
+rebel/rebellion;buntować się/bunt
+respect other people;szanować innych ludzi
+split up;rozstać się
+stick to the rules;trzymać się zasad
+take someone's side;wziąć czyjąś stronę
+walk out on;odejść od (kogoś)
+against your better judgement;wbrew zdrowemu rozsądkowi
+cheat on;zdradzić (kogoś)
+dump;rzucić (kogoś)
+family values;wartości rodzinne
+fellowship;koleżeństwo, braterstwo
+get your point across;wytłumaczyć swój punkt widzenia
+give someone the silent treatment;nie odzywać się do kogoś
+go ballistic;bardzo się zdenerwować
+have a difference of opinion;mieć różne zdania
+have an affair;mieć romans
+lay down some (ground) rules;wyznaczać podstawowe zasady
+push the limits;testować granice
+set boundaries;stawiać granice
+stop an allowance;wstrzymać wypłatę kieszonkowego
+talk things through;przedyskutować sprawę
+tell someone off;zbesztać kogoś, zrugać
+appreciate;cenić
+cross a border;przekroczyć granicę
+in question;wymieniony
+run away;uciec
+settle for;zadowolić się (czymś)
+simply;po prostu
+talk behind someone's back;obmawiać kogoś za jego plecami
+wish for;życzyć sobie (czegoś)
+backdrop;tło
+when it came down to it;kiedy przyszło co do czego
+cost a fortune;kosztować majątek
+equivalent;odpowiednik (czegoś)
+fiddle with;bawić się (czymś)
+fuss;zgiełk, zamieszanie
+go for;zdecydować się na
+ostentatious;pretensjonalny
+reflect on;zastanowić się nad
+snub;lekceważyć
+socialise;udzielać się towarzysko
