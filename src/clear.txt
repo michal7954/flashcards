@@ -738,3 +738,215 @@ ostentatious;pretensjonalny
 reflect on;zastanowić się nad
 snub;lekceważyć
 socialise;udzielać się towarzysko
+
+blackberry;jeżyna
+blackcurrant;czarna porzeczka
+blueberry;borówka amerykańska, jagoda
+cherry;wiśnia, czereśnia
+gooseberry;agrest
+grapes;winogrona
+lemon;cytryna
+peach;brzoskwinia
+pear;gruszka
+plum;śliwka
+raspberry;malina
+broccoli;brokuły
+cauliflower;kalafior
+celery;seler
+cucumber;ogórek
+green peas;zielony groszek
+mushroom;grzyb, pieczarka
+sweetcorn;kukurydza
+aubergine;bakłażan
+beetroot;burak
+leek;por
+parsley;zielona pietruszka
+radish;rzodkiewka
+bacon;boczek
+cod;dorsz
+ham;szynka
+herring;śledź
+lamb;jagnięcina
+mackerel;makrela
+prawns;krewetki
+salmon;łosoś
+tuna;tuńczyk
+turkey;indyk
+mutton;baranina
+oysters;ostrygi
+venison;sarnina
+sour cream;kwaśna śmietana
+margarine;margaryna
+yoghurt;jogurt
+cereal;płatki śniadaniowe
+dumplings;pierogi, knedle
+flour;mąka
+roll;bułka
+chocolate bar;baton czekoladowy
+crumble;ciasto owocowe z kruszonką
+dessert/pudding;deser
+lollipop;lizak
+baked;pieczony, zapiekany
+dried;suszony
+low-calorie;niskokaloryczny
+skimmed;odtłuszczony (o mleku, jogurcie)
+sparkling;gazowany
+stale;czerstwy
+tinned;z puszki
+boiled;gotowany
+crusty;chrupiący
+dry;suchy, wytrawne (wino)
+French dressing;sos winegret
+full-fat;pełnotłusty
+ground;mielony
+home-made;domowej roboty
+instant;rozpuszczalny (np. o kawie)
+medium;średnio wysmażony (o steku)
+microwavable;do podgrzania w mikrofalówce
+Neapolitan ice cream;blok lodowy w trzech smakach
+poached;ugotowany w wodzie bez skorupki (o jajku)
+powdered;w proszku
+rare;krwisty (o steku)
+scrambled eggs;jajecznica
+shop-bought;kupny, kupiony w sklepie
+sliced;pokrojony w plastry
+soft scoop;miękkie, łatwe do nakładania (o lodach)
+well-donedobrze wysmażony (o steku)
+wholemeal;razowy
+fizzy drink;napój gazowany
+soft drink;napój bezalkoholowy
+still/sparkling/bottled water;woda niegazowana/gazowana/butelkowana
+gravy;sos do pieczeni
+herbs;zioła
+mayonnaise;majonez
+pickles;marynowane warzywa
+salad dressing;sos sałatkowy
+salt;sól
+sauce;sos
+seasoning;przyprawa
+spices;przyprawy korzenne
+vinegar;ocet
+loaf of bread;bochenek chleba
+packet of crisps;paczka czipsów
+tub of ice cream;pudełko lodów
+box of tea bags;pudełko herbaty ekspresowej
+carton of orange juice;karton soku pomarańczowego
+jug of milk;dzban mleka
+piece of cake;kawałek ciasta
+pot of tea;dzbanek herbaty
+rasher of backon;plaster boczku
+spoonful of sugar;łyżeczka cukru
+tube of tomato paste;tubka koncentratu pomidorowego
+barbecue;grill
+brunch;późne śniadanie
+picnic;piknik
+tea;podwieczorek
+bake/cook in the oven/roast;upiec (chleb, ciasto / w piekarniku / mięso, warzywa)
+beat;ubić
+burn;przypalić
+cool;schłodzić
+go off;zepsuć się (o jedzeniu)
+grate;zetrzeć na tarce
+pour;wlać
+put on a low heat;postawić na wolnym ogniu
+sprinkle;posypać, pokropić
+squeeze;wycisnąć (np. sok)
+stir;zamieszać, wymieszać
+use up;zużyć
+chew;żuć, gryźć
+grease the pan;natłuścić patelnię
+gulp/swallow;połknąć (2 synonimy)
+lick;polizać
+overeat;przejść się
+rinse;opłukać
+set the oven;ustawić piekarnik
+sip;sączyć
+spread;rozsmarować
+undercook;nie dogotować, nie dopiec
+glass;szklanka, kieliszek
+jug;dzban
+kettle;czajnik
+mug;kubek
+saucepan/pan;rondel/garnek
+teaspoon;łyżeczka
+chopping board;deska do krojenia
+corkscrew;korkociąg
+crockery;naczynia, porcelana stołowa
+cutlery;sztućce
+ladle;łyżka wazowa
+sieve;sitko
+tin opener;otwieracz do puszek
+wooden spoon;drewniana łyżka
+bitter;gorzki
+disgusting;niesmaczny, niejadalny
+edible/inedible;jadalny/niejadalny
+mild;łagodny
+sharp;ostry/cierpki
+sour;kwaśny
+tasteless;bez smaku
+weak;słaby (o herbacie/kawie)
+yucky;ohydny
+yummy;pyszny
+unappetising;nieapetyczny
+bland;mdły
+chewy;gumowaty, ciągnący się
+fatty;tłusty
+off-putting;odpychający
+tender;miękki, kruchy
+tough;twardy
+cafe;kawiarnia (é)
+celebrity chef;znany kucharz
+cuisine;kuchnia, sposób gotowania
+main course;danie główne
+service (included);obsługa (wliczona w cenę)
+starter;przystawka
+takeaway;(danie) na wynos
+culinary critic;krytyk kulinarny
+delicacies;przysmaki, delikatesy
+gastronomy;gastronomia
+side dish;dodatek do dania głównego
+crash diet;intnsywna dieta odchudzająca
+follow a diet;stosować dietę
+high/low in calories;wysokokaloryczny/niskokaloryczny
+low-carbohydrate;niskowęglowodanowy
+ready meals;dania gotowe
+well-balanced diet
+come out in spots;dostać wysypki
+common;zwykły, powszechny
+life-threatening;zagrażający życiu
+medical attention;pomoc lekarska
+miserable;zbolały, nieszczęśliwy
+reassure;uspokajać
+severe;ostry, silny
+sympathy;współczucie
+addictive;uzależniający
+anticipation;niecierpliwe oczekiwanie
+be over the moon;być zachwyconym
+benefit;korzyść
+circulation;krążenie
+creaky;skrzypiący
+cut out;wyeliminować
+demanding;wymagający
+dispel a myth;obalić mit
+glossy;błyszczący
+go along with;zgodzić się z
+growl;warczeć, burczeć
+harm;krzywda, szkoda
+in a nutshell;krótko mówiąc
+indulgence;folgowanie sobie
+infer;wywnioskować, wydedukować
+insistent;uporczywy
+let alone;nie wspominając o
+longing;pragnienie, ochota
+not my cup of tea;nie w moim typie
+feel nostalgic for sth;tęsknić za czymś
+out of the corner of my eye;kątem oka
+out of this world;nie z tej ziemi
+puddle;kałuża
+reasonable;sensowny
+resist temptation;oprzeć się pokusie
+rumble;burczeć, burczenie
+snore;chrapać
+stir;mieszać
+trigger;wywołać, spowodować
+urge;pragnienie, chęć
