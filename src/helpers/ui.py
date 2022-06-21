@@ -24,13 +24,15 @@ def printHeader():
     print('4 - znajdź słówko w diki.pl')
     print()
 
+def printSummary(summary):
+    print(f'Czas nauki {getTimer()}')
+    print(f'Statystyki {summary[0]}-{summary[1]}')
 
 def printFlashcard(cardNumber, cardsNumber, cardProgress, maxLevel, definition):
-    print(f'Czas nauki {getTimer()}')
     print(f'Słówko {cardNumber}/{cardsNumber}')
     print(f'Poziom {cardProgress}/{maxLevel}')
+    print()
     printWord(definition)
-
 
 def printFooter():
     system('cls')

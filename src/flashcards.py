@@ -3,7 +3,7 @@ from helpers.consts import dataFile, days
 from datetime import date
 from Flashcard import Flashcard
 from helpers.differencesNumber import differencesNumber
-from helpers.ui import printFlashcard, printHeader, printFooter, printCorrect, printMistake
+from helpers.ui import printFlashcard, printSummary, printHeader, printFooter, printCorrect, printMistake
 from sys import exit
 from colorama import init as initColorama
 from helpers.timer import resetInactivityTimer
@@ -55,12 +55,17 @@ def prepareFlashcards():
 
 def questionFlashcards(flashcards):
 
+    summary = [0, 0]
+
     for cardNumber, card in enumerate(flashcards, start=1):
 
         printHeader()
+        printSummary(summary)
         printFlashcard(cardNumber, len(flashcards), card.progress, len(days)-1, card.definition)
 
         hint = 0
+        decision = False
+
         while True:
             operators = ['1', '2', '3', '4']
             print()
@@ -74,11 +79,11 @@ def questionFlashcards(flashcards):
                         hint +=1
                     printCorrect(card.entry[:hint])
                     if hint == len(card.entry):
-                        card.decide()
+                        decision = card.decide()
                         break
                 elif answer == '2':
                     printCorrect(f'{card.entry}')
-                    card.decide()
+                    decision = card.decide()
                     break
                 elif answer == '3':
                     card.read()
@@ -89,10 +94,15 @@ def questionFlashcards(flashcards):
                 result = differencesNumber(card.entry, answer)
                 if result == 0:
                     printCorrect('Odpowiedź poprawna')
-                    card.decide()
+                    decision = card.decide()
                     break
                 else:
                     printMistake(f'Różnic: {result}')
+
+        if decision:
+            summary[0] += 1
+        else:
+            summary[1] += 1
 
 
 def main():

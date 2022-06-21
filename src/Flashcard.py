@@ -45,6 +45,8 @@ class Flashcard:
 
         self.save()
 
+        return decision == 't'
+
     def read(self):
         try:
             engine = pyttsx3.init()
