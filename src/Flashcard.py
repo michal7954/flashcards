@@ -5,6 +5,7 @@ from helpers.ui import printError
 today = date.today()
 import webbrowser
 import pyttsx3
+from helpers.timer import resetInactivityTimer
 
 
 class Flashcard:
@@ -24,6 +25,7 @@ class Flashcard:
         decision = None
         while not decision in ['t', 'n']:
             decision = input('Czy zaliczyć? [t/n/3/4]: ')
+            resetInactivityTimer()
             if decision == '3':
                 self.read()
             if decision == '4':

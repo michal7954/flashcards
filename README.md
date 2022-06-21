@@ -2,7 +2,6 @@
 Aplikacja do wielokrotnego powtarzania słówek.
 
 todo:
-timer z uwzględnieniem czasu nieaktywności
 automatyczne uruchamianie opcji (bez entera)
 opcja 1 automatycznie pokazuje spacje
 Flashcards, copyright 2022

@@ -6,6 +6,7 @@ from helpers.differencesNumber import differencesNumber
 from helpers.ui import printFlashcard, printHeader, printFooter, printCorrect, printMistake
 from sys import exit
 from colorama import init as initColorama
+from helpers.timer import resetInactivityTimer
 
 
 def prepareFlashcards():
@@ -61,6 +62,7 @@ def questionFlashcards(flashcards):
         hint = 0
         while True:
             answer = input('\n')
+            resetInactivityTimer()
 
             if answer.isnumeric():
                 if answer == '1':

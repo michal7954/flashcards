@@ -1,5 +1,6 @@
 from helpers.consts import wordColor, defaultColor, mistakeColor, correctColor
 from os import system
+from helpers.timer import getTimer
 
 
 def printWord(content):
@@ -14,7 +15,9 @@ def printCorrect(content):
 def printHeader():
     system('cls')
     print('Nauka słówek')
-    print('© Michał Madeja\n')
+    print('© Michał Madeja')
+    print(f'Czas nauki {getTimer()}')
+    print()
     print('Opcje:')
     print('1 - podpowiedź')
     print('2 - wyświetl odpowiedź')

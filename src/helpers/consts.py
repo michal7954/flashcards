@@ -5,3 +5,4 @@ mistakeColor = '\033[91m'
 correctColor = '\033[92m'
 wordColor = '\033[93m'
 defaultColor = '\033[0m'
+maxInactivityTime = 30
