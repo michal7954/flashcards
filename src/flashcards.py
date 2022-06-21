@@ -67,6 +67,8 @@ def questionFlashcards(flashcards):
             if answer.isnumeric():
                 if answer == '1':
                     hint += 1
+                    while hint < len(card.entry) and card.entry[hint] == ' ' :
+                        hint +=1
                     printCorrect(card.entry[:hint])
                     if hint == len(card.entry):
                         card.decide()
