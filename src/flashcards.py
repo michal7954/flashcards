@@ -7,6 +7,7 @@ from helpers.ui import printFlashcard, printHeader, printFooter, printCorrect, p
 from sys import exit
 from colorama import init as initColorama
 from helpers.timer import resetInactivityTimer
+from helpers.smartInput import smartInput
 
 
 def prepareFlashcards():
@@ -61,10 +62,12 @@ def questionFlashcards(flashcards):
 
         hint = 0
         while True:
-            answer = input('\n')
+            operators = ['1', '2', '3', '4']
+            print()
+            answer = smartInput(operators)
             resetInactivityTimer()
 
-            if answer.isnumeric():
+            if answer in operators:
                 if answer == '1':
                     hint += 1
                     while hint < len(card.entry) and card.entry[hint] == ' ' :
