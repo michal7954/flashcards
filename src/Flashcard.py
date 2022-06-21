@@ -11,8 +11,8 @@ from helpers.timer import resetInactivityTimer
 class Flashcard:
     def __init__(self, line, entry, definition, progress, date) -> None:
         self.line = line
-        self.entry = entry
-        self.definition = definition
+        self.entry = entry.strip()
+        self.definition = definition.strip()
         self.progress = progress
         self.date = date
 

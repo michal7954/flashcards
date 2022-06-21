@@ -54,5 +54,5 @@ def differencesNumber(orginal, answer):
     if not answer:
         return len(orginal)
     orginal = orginal.lower()
-    answer = answer.lower()
+    answer = answer.lower().strip()
     return levenshteinRatioAndDistance(orginal, answer)
