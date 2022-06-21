@@ -14,9 +14,8 @@ def printCorrect(content):
 
 def printHeader():
     system('cls')
-    print('Nauka słówek')
-    print('© Michał Madeja')
-    print(f'Czas nauki {getTimer()}')
+    print('Flashcards')
+    print('Copyright © 2022 by Michał Madeja')
     print()
     print('Opcje:')
     print('1 - podpowiedź')
@@ -27,8 +26,9 @@ def printHeader():
 
 
 def printFlashcard(cardNumber, cardsNumber, cardProgress, maxLevel, definition):
-    print(f'Słówko: {cardNumber}/{cardsNumber}')
-    print(f'Poziom: {cardProgress}/{maxLevel}')
+    print(f'Czas nauki {getTimer()}')
+    print(f'Słówko {cardNumber}/{cardsNumber}')
+    print(f'Poziom {cardProgress}/{maxLevel}')
     printWord(definition)
 
 
