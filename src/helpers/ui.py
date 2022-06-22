@@ -37,8 +37,8 @@ def printFlashcard(cardNumber, cardsNumber, cardProgress, maxLevel, definition):
 def printError(specific):
     print(f'Wystąpił problem: {specific}')
 
-def printClosing():
+def printClosing(summary):
     printHeader()
-    printSummary()
+    printSummary(summary)
     print()
     input('Dzisiaj już nie ma więcej słówek\n[Enter]')

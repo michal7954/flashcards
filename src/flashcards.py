@@ -104,6 +104,8 @@ def questionFlashcards(flashcards):
         else:
             summary[1] += 1
 
+    return summary
+
 
 def main():
 
@@ -111,9 +113,9 @@ def main():
 
     flashcards = prepareFlashcards()
 
-    questionFlashcards(flashcards)
+    summary = questionFlashcards(flashcards)
 
-    printClosing()
+    printClosing(summary)
 
 
 if __name__ == '__main__':
