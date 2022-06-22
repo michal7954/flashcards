@@ -3,7 +3,7 @@ from helpers.consts import dataFile, days
 from datetime import date
 from Flashcard import Flashcard
 from helpers.differencesNumber import differencesNumber
-from helpers.ui import printFlashcard, printSummary, printHeader, printFooter, printCorrect, printMistake
+from helpers.ui import printFlashcard, printSummary, printHeader, printClosing, printCorrect, printMistake
 from sys import exit
 from colorama import init as initColorama
 from helpers.timer import resetInactivityTimer
@@ -113,7 +113,7 @@ def main():
 
     questionFlashcards(flashcards)
 
-    printFooter()
+    printClosing()
 
 
 if __name__ == '__main__':
