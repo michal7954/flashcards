@@ -26,7 +26,7 @@ class Flashcard:
         decision = None
         while not decision in ['t', 'n']:
             print('Czy zaliczyć? [t/n/3/4]: ', end='')
-            decision = smartInput(['t', 'n', '3', '4'])
+            decision = smartInput(['t', 'n', '1', '2', '3', '4'])
             resetInactivityTimer()
             if decision == '3':
                 self.read()
