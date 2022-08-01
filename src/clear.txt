@@ -950,3 +950,190 @@ snore;chrapać
 stir;mieszać
 trigger;wywołać, spowodować
 urge;pragnienie, chęć
+
+auction site;portal aukcyjny
+baker's;piekarnia
+cat boot sale;giełda rzeczy używanych (sprzedawanych prosto z bagażnika samochodu)
+chain store;sklep należący do sieci handlowej
+chemist's;apteka, drogeria
+department store;dom towarowy
+furniture shop;sklep meblowy
+garden centre;centrum ogrodnicze
+gift shop;sklep z upominkami
+greengrocer's;warzywniak
+jeweller's;jubiler
+local shop;sklep osiedlowy
+market;targ
+newsagent's;kiosk z gazetami
+pet shop;sklep zoologiczny
+pound store;sklep "wszystko za funta"
+shoe shop;sklep obuwniczy
+shopping centre/mall;centrum handlowe
+boutique;butik
+DIY store;sklep z artykułami do majsterkowania
+duty-free;sklep wolnocłowy
+florist's;kwiaciarnia
+go window-shopping;oglądać wystawy sklepowe
+launderette;pralnia samoobsługowa
+off-licence;sklep monopolowy
+retail outlet;punkt sprzedaży detalicznej
+stationery shop;sklep papierniczy
+chap and cheerful;tani, ale dobrej jakości
+costly;kosztowny
+cut-price;przeceniony
+end of line;końcówka kolekcji
+fair price;uczciwa cena
+half-price;za połowę ceny
+low-cost;tani
+overpriced;zbyt drogi
+pocket-sized;miniaturowy, kieszonkowy
+second-hand;używany
+top quality;najwyższej jakości
+value for money;towar wart swojej ceny
+worth;wart
+afford;pozwolić sobie na coś
+bargain;okazja cenowa
+branch;oddział, filia
+carrier bag;torba na zakupy
+checkout;kasa (w sklepie lub w supermarkecie)
+competitive prices;konkurencyjne ceny
+convenient;wygodny, dogodny
+display;wystawa sklepowa, prezentować, wystawiać
+good deal;dobry interes
+in sale;na wyprzedaży
+off;taniej
+on special offer;w promocji
+put up the price;podwyższyć cnę
+reduce from sth to sth;przecenić z sth na sth
+massive reductions;ogromne obniżki
+sell-out;wyprzedać
+trolley;wózek sklepowy
+aisle;alejka (w supermarkecie)
+automatic checkout;kasa samoobsługowa
+boy in bulk;kupować hurtowo
+buy on impulse;kupować pod wpływem impulsu
+get cash out;wypłacić pieniądze
+give discount;udzielić rabatu
+give refund;zwrócić pieniądze (za towar)
+go cheap;coś jest sprzedawane po obniżonej cenie
+have money on me;mieć przy sobie pieniądze
+keep receipt;zachować paragon
+leave feedback;zamieścić opinię
+make complaint;złożyć reklamację
+make shopping list;zrobić listę zakupów
+meet expectation;spełniać oczekiwania
+pick up bargain;znaleźć okazję
+put something aside;odłożyć coś (w sklepie)
+return an item;zwrócić towar
+shop around;szukać okazji, porównywać ceny
+shortage of;brak
+speak to the manager;rozmawiać z kierownikiem
+spend money;wydawać pieniądze
+stock up on;uzupełniać zapasy (czegoś), zaopatrzyć się w (coś)
+bring/take something back;zwrócić coś (do sklepu)
+exchange something;wymienić coś
+get money back;otrzymać zwrot pieniędzy
+not fit/work;nie pasować/działać
+broken;zepsuty
+damaged;uszkodzony
+dissatisfaction;niezadowolenie
+faded;spłowiały
+faulty;wadliwy
+missing;brakujący
+out of order;zepsuty
+replacement;towar na wymianę
+scratched;zarysowany
+shrink;skurczyć się
+unsatisfactory;niezadowalający
+brochure;broszura, prospekt
+commercial;reklama radiowa lub telewizyjna
+flier;ulotka
+free gift;gratis, darmowy dodatek
+leaflet;ulotka
+personal ad;ogłoszenie towarzyskie
+slogan;slogan
+celebrity endorsement;udział znane osoby w reklamie
+cold calling;akwizycja przez telefon
+marketing campaign;kampania reklamowa
+product placement;lokowanie produktu
+sports sponsorship;sponsorowanie imprez sportowych
+viral advertising;reklama wirusowa
+beauty salon;salon piękności
+doctor's surgery
+driving school;szkoła jazdy
+hairdresser's;zakład fryzjerski
+real estate agency;agencja nieruchomości
+service station;stacja obsługi pojazdów
+caterer;osoba/firma zajmująca się cateringiem
+chiropractor;kręgarz
+council;rada (np. rada miejska)
+courier;kurier
+dry cleaner's;pralnia chemiczna
+optician;optyk
+solicitor;adwokat, radca prawny
+undertaker;zakład/przedsiębiorca pogrzebowy
+by cheque;czekiem
+chip and pin device;terminal do kart płatniczych z chipem
+coins;monety
+contactless;bezdotykowy
+deduct;potrącać, odliczać
+go through;przejść (o transakcji kartą)
+insert a card;włożyć kartę
+key in;wprowadzać, wpisać (za pomocą klawiatury)
+notes;banknoty
+small change;drobne
+bank loan;kredyt w banku
+borrow/lend;pożyczyć od kogoś/komuś
+cashpoint;bankomat
+check the balance;sprawdzić stan konta
+put in/take out money;wpłacać/wypłacać pieniądze
+savings account;konto oszczędnościowe
+statement;wyciąg (z konta)
+take/accept credit carde;akceptiować karty kredytowe
+currency;waluta
+current account;konto bieżące
+deposit;wpłata, lokata
+deposit;wpłata, lokata
+deposit account;rachunek depozytowy
+earn interest on;otrzymać zysk z oprocentowania (czegoś)
+exchange rate;kurs wymiany walut
+in the red;na minusie
+interest rates;oprocentowanie
+investment bond;obligacja inwestycyjna
+overdraft;debet
+pay interest on;płacić odsetki od
+windfall;nieoczekiwany przypływ gotówki
+withdraw;wypłacić (pieniądze z banku)
+check comparison sites;sprawdzić porównywarki cen
+cover;pokrywać, zabezpieczać
+get a quote;dostać wycenę
+get insured;ubezpieczyć się
+take out insurance;wykupić ubezpieczenie
+fraudulent claim;fałszywe roszczenie
+make a claim;wystąpić o odszkodwoanie
+pay up;wypłacić pieniądze, pokryć zobowiązanie
+premium;składka ubezpieczeniowa
+read the small print;czytać drobny druk
+renew your insurance;przedłużyć ubezpieczenie
+avoid;unikać
+be reasonable with money;rozsądnie gospodarować pieniędzmi
+brilliant;wspaniały
+deafening;ogłuszający
+do a favour;wyświadczyć przysługę
+insist on;nalegać na
+how do you feel about;co sądzisz o
+go ahead;ruszyć z czymś
+totally independent;całkowicie niezależny
+aim;cel
+common practice;powszechna praktyka
+cultural event;wydarzenie kulturalne
+formidable opponent;groźny przeciwnik
+generate;generować
+hit-and-miss;metoda prób i błędów
+part and quiet;spokój i cisza
+pick and choose;przebierać (w czymś)
+sick and tired;mieś serdecznie dość
+spark off;rozpętać, wywołać
+staple foods;podstawowe produkty spożywcze
+stem from;wynikać z
+strategic position;strategiczna pozycja
