@@ -953,7 +953,7 @@ urge;pragnienie, chęć
 
 auction site;portal aukcyjny
 baker's;piekarnia
-cat boot sale;giełda rzeczy używanych (sprzedawanych prosto z bagażnika samochodu)
+car boot sale;giełda rzeczy używanych (sprzedawanych prosto z bagażnika samochodu)
 chain store;sklep należący do sieci handlowej
 chemist's;apteka, drogeria
 department store;dom towarowy
@@ -978,7 +978,7 @@ launderette;pralnia samoobsługowa
 off-licence;sklep monopolowy
 retail outlet;punkt sprzedaży detalicznej
 stationery shop;sklep papierniczy
-chap and cheerful;tani, ale dobrej jakości
+cheap and cheerful;tani, ale dobrej jakości
 costly;kosztowny
 cut-price;przeceniony
 end of line;końcówka kolekcji
@@ -1003,14 +1003,14 @@ good deal;dobry interes
 in sale;na wyprzedaży
 off;taniej
 on special offer;w promocji
-put up the price;podwyższyć cnę
+put up the price;podwyższyć cenę
 reduce from sth to sth;przecenić z sth na sth
 massive reductions;ogromne obniżki
 sell-out;wyprzedać
 trolley;wózek sklepowy
 aisle;alejka (w supermarkecie)
 automatic checkout;kasa samoobsługowa
-boy in bulk;kupować hurtowo
+buy in bulk;kupować hurtowo
 buy on impulse;kupować pod wpływem impulsu
 get cash out;wypłacić pieniądze
 give discount;udzielić rabatu
@@ -1089,10 +1089,9 @@ check the balance;sprawdzić stan konta
 put in/take out money;wpłacać/wypłacać pieniądze
 savings account;konto oszczędnościowe
 statement;wyciąg (z konta)
-take/accept credit carde;akceptiować karty kredytowe
+take/accept credit carde;akceptować karty kredytowe
 currency;waluta
 current account;konto bieżące
-deposit;wpłata, lokata
 deposit;wpłata, lokata
 deposit account;rachunek depozytowy
 earn interest on;otrzymać zysk z oprocentowania (czegoś)
@@ -1115,7 +1114,6 @@ pay up;wypłacić pieniądze, pokryć zobowiązanie
 premium;składka ubezpieczeniowa
 read the small print;czytać drobny druk
 renew your insurance;przedłużyć ubezpieczenie
-avoid;unikać
 be reasonable with money;rozsądnie gospodarować pieniędzmi
 brilliant;wspaniały
 deafening;ogłuszający
@@ -1130,10 +1128,187 @@ cultural event;wydarzenie kulturalne
 formidable opponent;groźny przeciwnik
 generate;generować
 hit-and-miss;metoda prób i błędów
-part and quiet;spokój i cisza
+part and parcel;nieodłączna część
+peace and quiet;spokój i cisza
 pick and choose;przebierać (w czymś)
-sick and tired;mieś serdecznie dość
+sick and tired;mieć serdecznie dość
 spark off;rozpętać, wywołać
 staple foods;podstawowe produkty spożywcze
 stem from;wynikać z
 strategic position;strategiczna pozycja
+
+board the plane;wejść na pokład
+boarding pass;karta pokładowa
+carriage;wagon
+check in your luggage;odprawić bagaż
+check-in;odprawa biletowo-bagażowa
+coach;autobus, autokar
+coach station;dworzec autobusowy
+compartment;przedział
+departure lounge;hala odlotów
+economy;ekonomiczna (klasa)
+fare;opłata za przejazd
+ferry;prom
+gate;wyjście (do samolotu)
+get on a train;wsiąść do pociągu
+give someone a lift;podwieźć kogoś
+go through customs;przejść odprawę celną
+helicopter;helikopter
+lorry;ciężarówka
+luggage rack;półka na bagaż
+miss a bus;spóźnić się na autobus
+motorbike;motocykl
+motorway;autostrada
+pedestrian;pieszy
+railway;kolej
+scooter;hulajnoga
+taxi/cab;taksówka (2 synonimy)
+ticket office;kasa biletowa
+truck;wagon towarowy
+van;furgonetka
+articulated lorry;ciężarówka naczepowa, TIR
+ask for directions;spytać o drogę
+baggage reclaim;punkt odbioru bagażu
+cable car;kolejka linowa
+cancel a booking;odwołać rezerwację
+crossing;przeprawa
+cruise liner;statek wycieczkowy
+deck;pokład
+double-decker;autobus piętrowy
+fill up;zatankować do pełna
+four-by-four;samochód z napędem na cztery koła
+get a speeding ticket;dostać mandat za przekroczenie prędkości
+get an upgrade;otrzymać usługę o wyższym standardzie
+get lost;zgubić się
+get stuck in;utknąć w
+harbour;port, przystań
+have a puncture;złapać gumę
+hitchhiking;podróżowanie autostopem
+keep to the speed limit;przestrzegać ograniczenia prędkości
+lane;pas ruchu
+level crossing;przejazd kolejowy
+narrow boat;barka
+overhead locker;schowek na bagaż podręczny (w samolocie)
+roundabout;rondo
+runway;pas startowy
+rush hour;godziny szczytu
+sailing boat;żaglówka
+season ticket;bilet okresowy
+signal failure;awaria semafora
+ski lift;wyciąg narciarski
+speed camera;fotoradar
+speedboat;motorówka wyścigowa
+sports car;samochód sportowy
+take pills;brać tabletki
+track;tor kolejowy
+travel sickness;choroba lokomocyjna
+tunnel;tunel
+upgrade to first class;podnieść standard do pierwszej klasy
+wear a seat belt;zapinać pas bezpieczeństwa
+admission charge;opłata za wstęp
+follow directions;podążać za (jechać zgodnie ze) wskazówkami
+opening times;godziny otwarcia
+place of interest;ciekawe miejsce
+places of natural beauty;parki krajobrazowe
+sightseeing tour;wycieczka ze zwiedzaniem
+tourist information office;biuro informacji turystycznej
+travel on a tight budget;podróżować przy ograniczonym budżecie
+bed and breakfast;pensjonat oferujący noclegi ze śniadaniem
+boutique hote;mały, luksusowy hotel
+cabin;chata, domek
+caravan;przyczepa kempingowa
+double room;pokój dwuosobowy
+facilities;udogodnienia, infrastruktura
+five-star;pięciogwiazdkowy
+be fully booked;mieć wszystkie miejsca zarezerwowane
+guest house;pensjonat
+holiday resort;miejscowość wypoczynkowa
+host family;rodzina goszcząca turystę
+hostel;schronisko
+put up a tent;rozbić namiot
+rent a villa;wynająć dom letni
+suite;apartament
+twin-bedded room;pokój dwuosobowy z dwoma osobnymi łóżkami
+vacancies;wolne pokoje
+youth hostel;schronisko młodzieżowe
+yurt;jurta
+adventure holiday;wczasy dla amatorów aktywnego wypoczynku
+of architectural interest;ciekawy architektonicznie
+beach holiday
+climbing;wspinaczka
+cycling;kolarstwo
+excursion;wycieczka
+guard;kierownik pociągu
+hire a bike;wynająć rower
+holiday representative;rezydent biura podróży
+journey;podróż
+leaflet;ulotka
+nature reserve;rezerwat przyrody
+package holiday;wczasy zorganizowane
+scuba diving;nurkowanie z akwalungiem
+souvenir hounting;polowanie na pamiątki
+suntan lotion;mleczko do opalania
+sunbathing;opalanie
+theme park;park rozrywki
+ticket inspector;kontroler biletów
+trekking;wędrówka
+trip;wycieczka, krótka podróż
+voyage;rejs, podróż morska
+ancient;starożytny
+architectural wonder;arcydzieło architektury
+boat trip;wycieczka statkiem
+breathtaking view;widok zapierający dech w piersiach
+budget;niskobudżetowy
+bus tour;wycieczka autokarowa
+day trip;wycieczka jednodniowa
+direct flight;bezpośredni lot
+full-day excursion;wycieczka całodniowa
+glamping;pobyt na luksusowym kempingu
+guided tour;wycieczka z przewodnikiem
+half-day excursion;wycieczka półdniowa
+historic;o znaczeniu historycznym
+holidaymaker;wczasowicz/wczasowiczka
+long-haul flight;długi lot
+ruins;ruiny
+sandy beach;piaszczysta plaża
+scorching temperatures;skwar, żar
+sheer cliff;strome urwisko
+staycation;wakacje spędzane w domu
+surrounding area;okolica
+thrilling ride;emocjonująca przejażdżka
+travel arrangements;organizacja podróży
+winding road;kręta droga
+ambulance;karetka pogotowia
+emergency;nagły wypadek
+lifebelt;koło ratunkowe
+lifejacket;kamizelka ratunkowa
+rescue;pomoc, ratunek
+rescue services;służby ratunkowe
+sick;chory
+come down with abug;złapać wirusa
+fire drill;ćwiczenia przeciwpożarowe
+give first aid;udzielić pierwszej pomocy
+have a narrow escape;cudem uniknąć nieszczęścia
+run sb over;przejechać, potrącić kogoś
+drift off;zasnąć
+follow something;następować po czymś
+gasp;wydać z siebie stłumiony okrzyk
+go about daily business;zajmować się codziennymi sprawami
+inconvenience;niedogodność
+pick up;podnieść
+stick to the schedule;trzymać się planu
+breathe a sigh of relief;odetchnąć z ulgą
+capacity;pojemność
+exhausted;wyczerpany
+frankly;szczerze
+guaranteed;gwarantowany
+landscaped;zaprojektowany, urządzony (o parku, ogrodzie)
+occur to;przyjść (komuś) do głowy
+patch;fragment, kawałek
+pile;stos
+remnants;pozostałości
+seek;szukać
+sigh;westchnąć
+switch off;wyłączyć
+vast;ogromny
+well-off;bogaty
