@@ -6,7 +6,7 @@ from helpers.differencesNumber import differencesNumber
 from helpers.ui import printFlashcard, printSummary, printHeader, printClosing, printCorrect, printMistake
 from sys import exit
 from colorama import init as initColorama
-from helpers.timer import resetInactivityTimer
+from helpers.timer import resetInactivityTimer, stopTimer
 from helpers.smartInput import smartInput
 
 
@@ -105,6 +105,8 @@ def questionFlashcards(flashcards):
             summary[0] += 1
         else:
             summary[1] += 1
+
+    stopTimer()
 
     return summary
 

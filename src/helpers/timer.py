@@ -5,6 +5,7 @@ import threading
 
 timer = datetime(1, 1, 1, 0, 0, 0)
 inactivityTime = 0
+stopped = False
 
 
 def resetInactivityTimer():
@@ -21,11 +22,18 @@ def incrementTimer():
     if inactivityTime <= maxInactivityTime:
         timer+=timedelta(0, 1)
 
+def stopTimer():
+    global stopped
+    stopped = True
 
 def setTimer(func, sec):
+
     def func_wrapper():
+        if stopped: 
+            return None
         setTimer(func, sec)
         func()
+        
     t = threading.Timer(sec, func_wrapper)
     t.start()
     return t
