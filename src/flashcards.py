@@ -38,12 +38,14 @@ def prepareFlashcards():
                 replaceLine(lineNumber, data)
 
             if data[3] == 'None':
+                data[3] = today
+                replaceLine(lineNumber, data)
                 continue
 
             data[2] = int(data[2])
             data[3] = date.fromisoformat(data[3])
 
-            if data[3] <= today:
+            if data[2] < len(days) and data[3] <= today:
                 flashcards.append(Flashcard(lineNumber, *data))
 
         except:

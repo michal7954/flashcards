@@ -26,6 +26,8 @@ Można zakończyć naukę w dowolnym momencie. Postępy są zapisywane na bież�
 Aplikacja podaje czas nauki. Stoper jest zatrzymywany po 30 sekundach nieaktywności użytkownika (dopóki nie wcisnął entera).
 Aplikacja podaje rónież statystyki obecnej sesji. Ilość decyzji pozytywnych-negatywnych.
 
+Istnieje możliwość dynamicznego modyfikowania tablicy consts.days. Jeżeli tabilca zostanie skrócona to wyrazy z wyższych poziomów już nie pojawią się w aplikacji. Jeżeli tabilica zostanie rozszerzona to zaliczone do tej pory wyrazy uaktywnią się z dzisiejszą datą i na pierwszym nowym poziomie dołożonym do tablicy days. 
+
 # Uruchomienie programu:
 
 1. Pobrać plik zip na komputer i go rozpakować.

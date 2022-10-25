@@ -41,7 +41,7 @@ class Flashcard:
         if self.progress < len(days):
             self.date = today + timedelta(days=days[self.progress])
         else:
-            self.date = None
+            self.date = today
 
         self.save()
 
