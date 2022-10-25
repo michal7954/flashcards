@@ -38,7 +38,7 @@ def prepareFlashcards():
                 replaceLine(lineNumber, data)
 
             if data[3] == 'None':
-                data[3] = today
+                data[3] = str(today)
                 replaceLine(lineNumber, data)
                 continue
 
