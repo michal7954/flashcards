@@ -22,6 +22,7 @@ def printHeader():
     print('2 - wyświetl odpowiedź')
     print('3 - odtwórz słówko')
     print('4 - znajdź słówko w diki.pl')
+    print('5 - modyfikuj przed zapisaniem')
     print()
 
 def printSummary(summary):

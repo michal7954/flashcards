@@ -16,22 +16,26 @@ class Flashcard:
         self.definition = definition.strip()
         self.progress = progress
         self.date = date
+        self.modifyBeforeSaving = False
 
     def save(self):
-        replaceLine(self.line, [self.entry, self.definition, str(self.progress), str(self.date)])
+        replaceLine(self.line, [self.entry, self.definition, str(self.progress), str(self.date)], self.modifyBeforeSaving)
 
     def decide(self):
         print()
 
         decision = None
         while not decision in ['t', 'n']:
-            print('Czy zaliczyć? [t/n/3/4]: ', end='')
-            decision = smartInput(['t', 'n', '1', '2', '3', '4'])
+            print('Czy zaliczyć? [t/n/3/4/5]: ', end='')
+            decision = smartInput(['t', 'n', '1', '2', '3', '4', '5'])
             resetInactivityTimer()
             if decision == '3':
                 self.read()
             if decision == '4':
                 self.openInDiki()
+            if decision == '5':
+                self.modifyBeforeSaving = True
+                print('Będziesz mógł zmodyfikować linijkę po decyzji.')
 
         if decision == 't':
             self.progress += 1

@@ -28,6 +28,8 @@ Aplikacja podaje rónież statystyki obecnej sesji. Ilość decyzji pozytywnych-
 
 Istnieje możliwość dynamicznego modyfikowania tablicy consts.days. Jeżeli tabilca zostanie skrócona to wyrazy z wyższych poziomów już nie pojawią się w aplikacji. Jeżeli tabilica zostanie rozszerzona to zaliczone do tej pory wyrazy uaktywnią się z dzisiejszą datą i na pierwszym nowym poziomie dołożonym do tablicy days. 
 
+Istnieje możliwość dynamicznego modyfikowania linijki ze słówkiem. Przed decyzją użytkownik zaznacza, że chce zmodyfikować słówko. Po decyzji użytkownik ma możliwość modyfikacji i zatwierdzenia zmian. W linijce zawsze muszą być dokładnie 3 średniki. Data musi być w formacie YYYY-MM-DD, z zerami wiodącymi. Błędne zmodyfikowanie linijki może spowodować błąd programu przy następnym uruchomieniu.
+
 # Uruchomienie programu:
 
 1. Pobrać plik zip na komputer i go rozpakować.
