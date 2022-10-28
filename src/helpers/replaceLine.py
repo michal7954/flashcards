@@ -1,5 +1,7 @@
 from helpers.consts import dataFile
-from pyautogui import typewrite
+from pynput.keyboard import Controller
+
+keyboard = Controller()
 
 
 def replaceLine(lineNumber, data, modifyBeforeSaving = False):
@@ -9,7 +11,7 @@ def replaceLine(lineNumber, data, modifyBeforeSaving = False):
     line = ''
     if modifyBeforeSaving:
         while not lineCorrect(line):
-            typewrite(orginalLine)
+            keyboard.type(orginalLine)
             line = input()
     else:
         line = orginalLine
