@@ -77,7 +77,7 @@ def questionFlashcards(flashcards):
         decision = False
 
         while True:
-            operators = ['1', '2', '3', '4']
+            operators = ['1', '2', '3', '4', '5']
             print()
             answer = smartInput(operators)
             resetInactivityTimer()
@@ -99,6 +99,9 @@ def questionFlashcards(flashcards):
                     card.read()
                 elif answer == '4':
                     card.openInDiki()
+                elif answer == '5':
+                    print('Będziesz mógł zmodyfikować linijkę po decyzji.')
+                    card.modifyBeforeSaving = True
 
             else:
                 result = differencesNumber(card.entry, answer)
