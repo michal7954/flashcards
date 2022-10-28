@@ -1,13 +1,15 @@
-from helpers.replaceLine import replaceLine
 from datetime import date, timedelta
-from helpers.consts import days, dikiUri
-from helpers.ui import printError
-today = date.today()
 import webbrowser
 import pyttsx3
+
+from helpers.replaceLine import replaceLine
+from helpers.consts import days, dikiUri
+from helpers.ui import printError
 from helpers.timer import resetInactivityTimer
 from helpers.smartInput import smartInput
 
+
+today = date.today()
 
 class Flashcard:
     def __init__(self, line, entry, definition, progress, date) -> None:

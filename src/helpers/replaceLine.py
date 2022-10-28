@@ -1,8 +1,9 @@
-from helpers.consts import dataFile
 from pynput.keyboard import Controller
 
-keyboard = Controller()
+from helpers.consts import dataFile
 
+
+keyboard = Controller()
 
 def replaceLine(lineNumber, data, modifyBeforeSaving = False):
     lines = open(dataFile, 'r', encoding="utf-8").readlines()

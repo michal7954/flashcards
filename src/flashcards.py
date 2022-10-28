@@ -1,13 +1,16 @@
-from helpers.replaceLine import replaceLine
-from helpers.consts import dataFile, days
 from datetime import date
-from Flashcard import Flashcard
-from helpers.differencesNumber import differencesNumber
-from helpers.ui import printFlashcard, printSummary, printHeader, printClosing, printCorrect, printMistake
 from sys import exit
 from colorama import init as initColorama
+
+from Flashcard import Flashcard
+from helpers.replaceLine import replaceLine
+from helpers.consts import dataFile, days
+from helpers.differencesNumber import differencesNumber
+from helpers.ui import printFlashcard, printSummary, printHeader, printClosing, printCorrect, printMistake
 from helpers.timer import resetInactivityTimer, stopTimer
 from helpers.smartInput import smartInput
+
+
 import os
 
 def init():

@@ -1,7 +1,8 @@
-from time import sleep
 from datetime import datetime, timedelta
-from helpers.consts import maxInactivityTime
 import threading
+
+from helpers.consts import maxInactivityTime
+
 
 timer = datetime(1, 1, 1, 0, 0, 0)
 inactivityTime = 0

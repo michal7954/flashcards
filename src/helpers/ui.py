@@ -1,5 +1,6 @@
-from helpers.consts import wordColor, defaultColor, mistakeColor, correctColor
 from os import system
+
+from helpers.consts import wordColor, defaultColor, mistakeColor, correctColor
 from helpers.timer import getTimer
 
 
