@@ -8,6 +8,11 @@ from sys import exit
 from colorama import init as initColorama
 from helpers.timer import resetInactivityTimer, stopTimer
 from helpers.smartInput import smartInput
+import os
+
+def init():
+    os.system('mode 90,55')
+    initColorama()
 
 
 def prepareFlashcards():
@@ -113,7 +118,7 @@ def questionFlashcards(flashcards):
 
 def main():
 
-    initColorama()
+    init()
 
     flashcards = prepareFlashcards()
 
