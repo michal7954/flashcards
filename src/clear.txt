@@ -1312,3 +1312,155 @@ sigh;westchnąć
 switch off;wyłączyć
 vast;ogromny
 well-off;bogaty
+
+drama;sztuka dramatyczna
+imaginative;pomysłowy
+predictable;przewidywalny
+playwright;dramaturg
+sculptor;rzeźbiarz
+busker;artysta uliczny
+cartoonist;osoba rysująca komiksy
+pavement artist;artysta malujący na chodniku
+scriptwriter;scenarzysta
+stuntman;kaskader
+voice-over artist;lektor
+cast;obsada
+cover;okładka
+drawing;rysunek
+extra;statysta
+interval;antrakt
+make-up;charakteryzacja
+paperback;książka w miękkiej okładce
+performance;przedstawienie, występ
+play;sztuka
+plot;fabuła
+poem;wiersz
+script;scenariusz
+set;dekoracje sceniczne
+sketch;szkic
+still life;martwa natura
+tune in;ustawić stację radiową
+blurb;notka wydawnicza na okładce książki
+chorus;refren
+close-up;zbliżenie
+illustration;ilustracja
+sequel;kontynuacja filmu, książki
+ballroom dancing;taniec towarzyski
+fiction;beletrystyka
+non-fiction;literatura faktu
+psychological thriller;thriller psychologiczny
+romcom;komedia romantyczna
+short story;opowiadanie
+spy;szpiegowski
+urban music;muzyka miejska
+blank verse;biały wiersz
+blues music;muzyka blues
+classical music;muzyka klasyczna
+detective fiction;literatura kryminalna
+epic poem;epos
+fairy tale;bajka
+folk music;muzyka folk
+graphic novel;komiks, powieść graficzna
+art exhibition;wystawa dzieł sztuki
+award ceremony;uroczystość wręczenia nagród
+box office;kasa biletowa
+do badly at the box office;zrobić klapę
+come up with;wymyślać, znajdować
+cross out;wykreślić
+dance in time to;tańczyć w rytm (czegoś)
+look out for;wypatrywać (kogoś)
+make up;wymyślać
+new release;nowa publikacja, nowe wydanie
+opening night;premiera
+play an instrument;grać na instrumencie
+publisher;wydawca
+rhyme with;rymować się z
+run down;krytykować
+stage;scena
+stand in for;zastępować (kogoś)
+stand out;wyróżniać się
+studio;pracownia
+take over;przejąć
+take a picture of;zrobić zdjęcie (czegoś)
+trumpet;trąbka
+venue;miejsce (np. przedstawienia, koncertu)
+audience;publiczność
+audition;przesłuchanie (piosenkarza lub aktora)
+autograph;autograf
+based on;oparty na
+boo;wygwizdać
+bookworm;mól książkowy
+bore to death;zanudzić na śmierć
+can’t put sth down;nie móc się oderwać od czytania czegoś
+cast a play;obsadzić role w sztuce
+caught up in a story;pochłonięty książką
+cheer;wiwatować
+clap;klaskać
+contestant;uczestnik konkursu
+do research for;przeprowadzać badania do
+excellent read;doskonała lektura
+first edition;pierwsze wydanie
+get it right;zrobić coś dobrze
+ghostwriter;autor-widmo, autor piszący książkę (np. autobiografię) za inną osobę
+give so nightmares;przyprawiać kogoś (so) o koszmary nocne
+glued to the screen;przyklejony do ekranu
+learn your lines;nauczyć się kwestii
+put on a show;wystawić sztukę
+record an album;nagrać płytę
+rehearsal;próba
+shortlist so for sth;umieścić kogoś (so) na liście najważniejszych kandydatów ???
+spectator;widz
+stage fright;trema
+standing ovation;owacje na stojąco
+steal the show;przyćmić resztę aktorów
+supporting actor;aktor drugoplanowy
+title role;rola tytułowa
+turn off;zniechęcić
+understudy;dubler
+viewer;widz
+write up;przepisać, rozwinąć notatki
+breaking news/newsflash;wiadomość z ostatniej chwili (2 synonimy)
+column;rubryka, felieton
+columnist;felietonista
+cover/front page;pierwsza strona gazety (2 synonimy)
+feature;artykuł
+issues;sprawy
+local interest;sprawy lokalne
+magazine;czasopismo
+caption;podpis
+circulation;nakład
+comic strip;komiks, historyjka obrazkowa
+coverage;relacja, sprawozdanie
+obituary;nekrolog
+broadcast;nadawać
+chat show;talk show
+credit;napisy końcowe
+dub;dubbingować, podkładać głos
+feature;występować
+game show;teleturniej
+host;gospodarz programu telewizyjnego
+interview;przeprowadzać wywiad z
+news presenter;prezenter wiadomości
+serial;serial
+series;seria, cykl
+soap opera;opera mydlana, telenowela
+accomplished;znakomity
+gap;luka
+go off;przestać coś lubić
+impressed by;być pod wrażeniem
+sign up;zgłosić się
+appreciate;doceniać
+crucial;ważny, znaczący
+cultural pursuit;chęć obcowania z kulturą
+distracted;rozkojarzony
+expectant;wyczekujący
+fallacy;fałszywe rozumowanie
+highly acclaimed;wysoko ceniony
+masterpiece;arcydzieło
+mesmerised;zahipnotyzowany
+replacement;zastępstwo
+try your hand at;sprawdzić się w czymś
+unappealing;nieatrakcyjny
+unreachable;nieosiągalny
+vanish;znikać
+well-read;oczytany
