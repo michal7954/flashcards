@@ -5,7 +5,7 @@ keyboard = Controller()
 
 def smartInput(operators):
     key = readchar.readkey()
-    if key == '\033[A':
+    if key == None:
         keyboard.press(Key.up)
         key = input()
     elif key in operators:
